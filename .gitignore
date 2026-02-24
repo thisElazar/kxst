@@ -1,0 +1,4 @@
+config/config.yml
+*.secret
+.DS_Store
+Thumbs.db
