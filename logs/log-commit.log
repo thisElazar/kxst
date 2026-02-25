@@ -1,0 +1,9 @@
+[master 8678b12] playout logs 2026-02-24
+ 2 files changed, 1 insertion(+)
+ create mode 100644 logs/db-snapshot.log
+ create mode 100644 logs/log-commit.log
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
