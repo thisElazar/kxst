@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KXST 91.9 FM — Delta Community Radio</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #0a0a0f;
+      --surface: #12121a;
+      --border: #1e1e2e;
+      --text: #e0ddd4;
+      --dim: #7a7870;
+      --accent: #c9a84c;
+      --accent-dim: #8a7235;
+      --glow: rgba(201, 168, 76, 0.15);
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 480px;
+      padding: 0 24px;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 48px 0 32px;
+    }
+
+    .callsign {
+      font-size: 3.2rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    .freq {
+      font-size: 1rem;
+      color: var(--dim);
+      letter-spacing: 0.3em;
+      margin-top: 4px;
+    }
+
+    .tagline {
+      font-size: 0.85rem;
+      color: var(--dim);
+      margin-top: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    /* Player */
+    .player {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px 28px;
+      margin-bottom: 24px;
+    }
+
+    .status-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #555;
+      transition: background 0.3s;
+    }
+
+    .status-dot.live {
+      background: #4a4;
+      box-shadow: 0 0 8px rgba(68, 170, 68, 0.6);
+    }
+
+    .status-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--dim);
+    }
+
+    .play-btn {
+      width: 100%;
+      padding: 16px;
+      border: 2px solid var(--accent-dim);
+      border-radius: 12px;
+      background: transparent;
+      color: var(--accent);
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .play-btn:hover {
+      background: var(--glow);
+      border-color: var(--accent);
+    }
+
+    .play-btn:active {
+      transform: scale(0.98);
+    }
+
+    .play-btn.playing {
+      border-color: var(--accent);
+      background: var(--glow);
+    }
+
+    .play-icon {
+      font-size: 1.3rem;
+      line-height: 1;
+    }
+
+    /* Volume */
+    .volume-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .vol-icon {
+      color: var(--dim);
+      font-size: 0.8rem;
+      flex-shrink: 0;
+      width: 20px;
+      text-align: center;
+    }
+
+    .volume-slider {
+      flex: 1;
+      -webkit-appearance: none;
+      appearance: none;
+      height: 4px;
+      border-radius: 2px;
+      background: var(--border);
+      outline: none;
+    }
+
+    .volume-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+    }
+
+    /* Info cards */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+    }
+
+    .card-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: var(--dim);
+      margin-bottom: 8px;
+    }
+
+    .card-content {
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: var(--text);
+    }
+
+    .card-content a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .card-content a:hover {
+      text-decoration: underline;
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 32px 0 48px;
+      color: var(--dim);
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+    }
+
+    /* Mobile tweaks */
+    @media (max-width: 400px) {
+      .callsign { font-size: 2.6rem; }
+      .container { padding: 0 16px; }
+      .player { padding: 24px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="callsign">KXST</div>
+      <div class="freq">91.9 FM</div>
+      <div class="tagline">Delta Community Radio &mdash; Terminous, CA</div>
+    </header>
+
+    <div class="player">
+      <div class="status-row">
+        <div class="status-dot" id="statusDot"></div>
+        <div class="status-label" id="statusLabel">Connecting...</div>
+      </div>
+
+      <button class="play-btn" id="playBtn" onclick="togglePlay()">
+        <span class="play-icon" id="playIcon">&#9654;</span>
+        <span id="playText">Listen Live</span>
+      </button>
+
+      <div class="volume-row">
+        <span class="vol-icon">&#128264;</span>
+        <input type="range" class="volume-slider" id="volumeSlider"
+               min="0" max="100" value="80" oninput="setVolume(this.value)">
+        <span class="vol-icon">&#128266;</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-label">About</div>
+      <div class="card-content">
+        KXST is a community radio station broadcasting from the heart of the
+        Sacramento&ndash;San Joaquin Delta. We play classical music, golden age
+        radio adventures, and local artists &mdash; plus automated Delta
+        conditions reports covering tides, weather, air quality, and road closures.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-label">Community</div>
+      <div class="card-content">
+        A project of <a href="https://hatchworkshop.org">Hatch Workshop</a>,
+        a nonprofit makerspace in the Delta.
+      </div>
+    </div>
+
+    <footer>
+      &copy; 2026 KXST &middot; Terminous, CA
+    </footer>
+  </div>
+
+  <audio id="audio" preload="none"></audio>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const playBtn = document.getElementById('playBtn');
+    const playIcon = document.getElementById('playIcon');
+    const playText = document.getElementById('playText');
+    const statusDot = document.getElementById('statusDot');
+    const statusLabel = document.getElementById('statusLabel');
+    const volumeSlider = document.getElementById('volumeSlider');
+
+    // Pick format based on browser support
+    const canMP3 = audio.canPlayType('audio/mpeg');
+    const streamURL = canMP3
+      ? 'https://stream.kxst.org/main.mp3'
+      : 'https://stream.kxst.org/main';
+
+    let playing = false;
+
+    // Check if stream is up
+    function checkStream() {
+      fetch(streamURL, { method: 'HEAD', mode: 'no-cors' })
+        .then(() => {
+          statusDot.classList.add('live');
+          statusLabel.textContent = 'Live';
+        })
+        .catch(() => {
+          statusDot.classList.remove('live');
+          statusLabel.textContent = 'Offline';
+        });
+    }
+
+    function togglePlay() {
+      if (playing) {
+        audio.pause();
+        audio.src = '';
+        playing = false;
+        playBtn.classList.remove('playing');
+        playIcon.innerHTML = '&#9654;';
+        playText.textContent = 'Listen Live';
+      } else {
+        audio.src = streamURL;
+        audio.volume = volumeSlider.value / 100;
+        audio.play().then(() => {
+          playing = true;
+          playBtn.classList.add('playing');
+          playIcon.innerHTML = '&#9646;&#9646;';
+          playText.textContent = 'Stop';
+        }).catch(() => {
+          statusLabel.textContent = 'Stream unavailable';
+        });
+      }
+    }
+
+    function setVolume(val) {
+      audio.volume = val / 100;
+    }
+
+    // Check on load, then every 30s
+    checkStream();
+    setInterval(checkStream, 30000);
+  </script>
+</body>
+</html>
