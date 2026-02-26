@@ -413,13 +413,19 @@
     const nextRow = document.getElementById('nextRow');
     const nextTrack = document.getElementById('nextTrack');
 
+    function decodeHTML(str) {
+      const el = document.createElement('textarea');
+      el.innerHTML = str;
+      return el.value;
+    }
+
     function formatTrack(trackData) {
       if (!trackData || typeof trackData !== 'object') return null;
       const meta = trackData.metadata || {};
       const title = meta.track_title || '';
       const artist = meta.artist_name || '';
       if (!title && !artist) return null;
-      return { title, artist };
+      return { title: decodeHTML(title), artist: decodeHTML(artist) };
     }
 
     function updateSchedule() {
