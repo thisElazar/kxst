@@ -170,6 +170,67 @@
       cursor: pointer;
     }
 
+    /* Now playing / schedule */
+    .schedule {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 28px;
+      margin-bottom: 24px;
+    }
+
+    .now-playing-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: var(--dim);
+      margin-bottom: 8px;
+    }
+
+    .now-playing-title {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: var(--accent);
+      line-height: 1.3;
+    }
+
+    .now-playing-artist {
+      font-size: 0.9rem;
+      color: var(--text);
+      margin-top: 2px;
+    }
+
+    .schedule-divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 16px 0;
+    }
+
+    .schedule-row {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      padding: 6px 0;
+    }
+
+    .schedule-row-label {
+      font-size: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--dim);
+      flex-shrink: 0;
+      width: 52px;
+    }
+
+    .schedule-row-track {
+      font-size: 0.85rem;
+      color: var(--dim);
+    }
+
+    .schedule-row-track .track-title {
+      color: var(--text);
+    }
+
     /* Info cards */
     .card {
       background: var(--surface);
@@ -246,21 +307,38 @@
       </div>
     </div>
 
+    <div class="schedule" id="schedule">
+      <div class="now-playing-label">Now Playing</div>
+      <div class="now-playing-title" id="nowTitle">—</div>
+      <div class="now-playing-artist" id="nowArtist"></div>
+      <hr class="schedule-divider">
+      <div class="schedule-row" id="prevRow" style="display:none">
+        <span class="schedule-row-label">Previous</span>
+        <span class="schedule-row-track" id="prevTrack"></span>
+      </div>
+      <div class="schedule-row" id="nextRow" style="display:none">
+        <span class="schedule-row-label">Up Next</span>
+        <span class="schedule-row-track" id="nextTrack"></span>
+      </div>
+    </div>
+
     <div class="card">
       <div class="card-label">About</div>
       <div class="card-content">
-        KXST is a community radio station broadcasting from the heart of the
-        Sacramento&ndash;San Joaquin Delta. We play classical music, golden age
-        radio adventures, and local artists &mdash; plus automated Delta
-        conditions reports covering tides, weather, air quality, and road closures.
+        KXST is a non-commercial community radio station based in the
+        Stockton/San Joaquin area. We feature local music, classical,
+        old-time recordings from the public domain, golden age radio dramas,
+        and local weather/tide charts.
       </div>
     </div>
 
     <div class="card">
       <div class="card-label">Community</div>
       <div class="card-content">
-        A project of <a href="https://hatchworkshop.org">Hatch Workshop</a>,
-        a nonprofit makerspace in the Delta.
+        A project of <a href="https://hatchworkshop.org">HATCH Workshop</a>,
+        a nonprofit community center and makerspace in Downtown Stockton.
+        With support from Common Frequency and the Reinvent Stockton Foundation.
+        Powered by Community!
       </div>
     </div>
 
@@ -327,9 +405,67 @@
       audio.volume = val / 100;
     }
 
-    // Check on load, then every 30s
+    // Schedule info
+    const nowTitle = document.getElementById('nowTitle');
+    const nowArtist = document.getElementById('nowArtist');
+    const prevRow = document.getElementById('prevRow');
+    const prevTrack = document.getElementById('prevTrack');
+    const nextRow = document.getElementById('nextRow');
+    const nextTrack = document.getElementById('nextTrack');
+
+    function formatTrack(trackData) {
+      if (!trackData || typeof trackData !== 'object') return null;
+      const meta = trackData.metadata || {};
+      const title = meta.track_title || '';
+      const artist = meta.artist_name || '';
+      if (!title && !artist) return null;
+      return { title, artist };
+    }
+
+    function updateSchedule() {
+      fetch('/api/live-info-v2')
+        .then(r => r.json())
+        .then(data => {
+          const tracks = data.tracks || {};
+
+          // Current
+          const current = formatTrack(tracks.current);
+          if (current) {
+            nowTitle.textContent = current.title || '—';
+            nowArtist.textContent = current.artist || '';
+          } else {
+            nowTitle.textContent = '—';
+            nowArtist.textContent = '';
+          }
+
+          // Previous
+          const prev = formatTrack(tracks.previous);
+          if (prev) {
+            prevTrack.innerHTML = '<span class="track-title">' + prev.title + '</span>' +
+              (prev.artist ? ' — ' + prev.artist : '');
+            prevRow.style.display = '';
+          } else {
+            prevRow.style.display = 'none';
+          }
+
+          // Next
+          const next = formatTrack(tracks.next);
+          if (next) {
+            nextTrack.innerHTML = '<span class="track-title">' + next.title + '</span>' +
+              (next.artist ? ' — ' + next.artist : '');
+            nextRow.style.display = '';
+          } else {
+            nextRow.style.display = 'none';
+          }
+        })
+        .catch(() => {});
+    }
+
+    // Check on load, then every 10s for schedule, 30s for stream status
     checkStream();
+    updateSchedule();
     setInterval(checkStream, 30000);
+    setInterval(updateSchedule, 10000);
   </script>
 </body>
 </html>
