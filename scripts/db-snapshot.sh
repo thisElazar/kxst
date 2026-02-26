@@ -7,7 +7,7 @@ REPO_DIR="$HOME/kxst"
 DB_DIR="$REPO_DIR/db"
 
 # Dump database
-pg_dump -U libretime libretime | gzip > "$DB_DIR/libretime-$(date +%Y%m%d).sql.gz"
+PGPASSWORD=24d1f029abf72aaeb38ee845cc798542 pg_dump -U libretime -h localhost libretime | gzip > "$DB_DIR/libretime-$(date +%Y%m%d).sql.gz"
 
 # Keep only last 30 days
 find "$DB_DIR/" -name "*.sql.gz" -mtime +30 -delete
