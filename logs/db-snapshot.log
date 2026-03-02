@@ -16,3 +16,8 @@ To github.com:thisElazar/kxst.git
 Warning: Permanently added the ECDSA host key for IP address '140.82.116.4' to the list of known hosts.
 To github.com:thisElazar/kxst.git
    12a606e..76c216d  master -> master
+[master ed5b0e3] db snapshot 2026-03-02
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 db/libretime-20260302.sql.gz
+To github.com:thisElazar/kxst.git
+   6ed10e6..ed5b0e3  master -> master
