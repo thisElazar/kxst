@@ -1,0 +1,435 @@
+2026-02-23 19:01:41,588 | INFO     | libretime_playout.main:cli:100 - Timezone: ('PST', 'PDT')
+2026-02-23 19:01:41,590 | INFO     | libretime_playout.main:cli:101 - UTC time: 2026-02-24 03:01:41.590641
+2026-02-23 19:01:44,664 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d745b0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:01:47,736 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74880>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:01:50,808 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74970>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:01:53,880 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74c10>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:01:56,952 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74af0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:00,024 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74bb0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:03,096 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e3a0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:06,168 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e490>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:02:09,239 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e850>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:12,312 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e9d0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:15,384 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e040>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:18,456 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6ec40>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:02:21,528 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6eee0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:24,600 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87160>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:27,672 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87310>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:30,744 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a874c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:02:33,816 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87850>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:36,887 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6ef70>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:39,960 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6ef40>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:43,032 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e7f0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:02:46,104 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6eb50>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:49,175 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6ea30>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:52,248 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e430>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:02:55,320 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e460>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:02:58,391 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74fa0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:01,463 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74700>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:04,536 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74d60>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:07,608 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87310>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:03:10,683 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a871c0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:13,752 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a879d0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:16,824 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87b80>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:19,896 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87d30>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:03:22,968 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a91100>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:26,039 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a91280>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:29,112 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a91430>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:32,184 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e3d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:03:35,256 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e400>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:38,328 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e550>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:41,400 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6eb80>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:44,472 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6e7c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:03:47,544 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d6efa0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:50,616 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87df0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:53,688 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a870d0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:03:56,760 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87c10>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:03:59,832 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87280>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:04:02,903 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a873a0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:04:05,975 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87040>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:04:09,047 | ERROR    | libretime_api_client._client:_request:93 - HTTPConnectionPool(host='192.168.1.210', port=80): Max retries exceeded with url: /api/version?format=json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b6a87970>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-02-23 19:04:12,119 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74e20>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:04:15,191 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d74fd0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:04:18,264 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f01b7d746a0>: Failed to establish a new connection: [Errno 113] No route to host')': /api/version?format=json
+2026-02-23 19:05:17,745 | INFO     | libretime_playout.main:cli:100 - Timezone: ('PST', 'PDT')
+2026-02-23 19:05:17,746 | INFO     | libretime_playout.main:cli:101 - UTC time: 2026-02-24 03:05:17.746915
+2026-02-23 19:05:17,937 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:18,939 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:19,941 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:20,943 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:21,945 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:22,946 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:23,948 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:24,950 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:25,952 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:26,954 | WARNING  | libretime_playout.liquidsoap.client._client:wait_for_version:64 - could not get version: [Errno 111] Connection refused
+2026-02-23 19:05:27,960 | INFO     | libretime_playout.liquidsoap.client._client:wait_for_version:61 - found version (1, 4, 2)
+2026-02-23 19:05:27,961 | INFO     | libretime_playout.player.fetch:__init__:63 - PypoFetch: init complete
+2026-02-23 19:05:27,964 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 19:05:27,966 | INFO     | libretime_playout.history.stats:run:152 - starting stats collector
+2026-02-23 19:05:28,025 | INFO     | libretime_playout.message_handler:run_forever:101 - starting message handler
+2026-02-23 19:05:28,074 | INFO     | kombu.mixins:Consumer:229 - Connected to amqp://libretime:**@127.0.0.1:5672//libretime
+2026-02-23 19:05:31,734 | INFO     | libretime_playout.message_handler:on_message:52 - handling event reset_liquidsoap_bootstrap: {'event_type': 'reset_liquidsoap_bootstrap'}
+2026-02-23 19:05:31,774 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:05:32,936 | INFO     | libretime_playout.player.fetch:main:307 - Bootstrap schedule received: {}
+2026-02-23 19:05:32,936 | INFO     | libretime_playout.player.fetch:main:311 - Loop #1
+2026-02-23 19:05:32,943 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-23 19:05:32,943 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:05:32,944 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 19:05:33,089 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 399.8459222316742
+2026-02-23 19:05:33,090 | INFO     | libretime_playout.player.fetch:main:311 - Loop #2
+2026-02-23 19:05:33,188 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:05:33,188 | INFO     | libretime_playout.player.fetch:main:311 - Loop #3
+2026-02-23 19:05:33,192 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:05:33,193 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 19:12:13,189 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:12:17,631 | INFO     | libretime_playout.player.fetch:main:311 - Loop #4
+2026-02-23 19:12:17,635 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:12:17,635 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 19:13:49,773 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:13:49,876 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:13:49,877 | INFO     | libretime_playout.player.fetch:main:311 - Loop #5
+2026-02-23 19:13:49,883 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:13:49,883 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 19:14:05,177 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:05,502 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 17 to cache /var/lib/libretime/playout/scheduler/17.wav
+2026-02-23 19:14:05,506 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:05,506 | INFO     | libretime_playout.player.fetch:main:311 - Loop #6
+2026-02-23 19:14:05,511 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:05,511 | INFO     | libretime_playout.player.queue:main:39 - waiting 54.488497s until next scheduled item
+2026-02-23 19:14:12,819 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:15,912 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 2 to cache /var/lib/libretime/playout/scheduler/2.mp3
+2026-02-23 19:14:15,916 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:15,917 | INFO     | libretime_playout.player.fetch:main:311 - Loop #7
+2026-02-23 19:14:15,921 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:15,922 | INFO     | libretime_playout.player.queue:main:39 - waiting 44.077916s until next scheduled item
+2026-02-23 19:14:17,335 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:17,346 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 3 to cache /var/lib/libretime/playout/scheduler/3.mp3
+2026-02-23 19:14:18,372 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:18,373 | INFO     | libretime_playout.player.fetch:main:311 - Loop #8
+2026-02-23 19:14:18,378 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:18,378 | INFO     | libretime_playout.player.queue:main:39 - waiting 41.621143s until next scheduled item
+2026-02-23 19:14:19,089 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 4 to cache /var/lib/libretime/playout/scheduler/4.mp3
+2026-02-23 19:14:20,881 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 24 to cache /var/lib/libretime/playout/scheduler/24.mp3
+2026-02-23 19:14:26,571 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:28,073 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 10 to cache /var/lib/libretime/playout/scheduler/10.mp3
+2026-02-23 19:14:28,077 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:28,077 | INFO     | libretime_playout.player.fetch:main:311 - Loop #9
+2026-02-23 19:14:28,079 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:28,080 | INFO     | libretime_playout.player.queue:main:39 - waiting 31.920006s until next scheduled item
+2026-02-23 19:14:29,840 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 11 to cache /var/lib/libretime/playout/scheduler/11.mp3
+2026-02-23 19:14:31,204 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 14 to cache /var/lib/libretime/playout/scheduler/14.mp3
+2026-02-23 19:14:33,189 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:34,848 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 18 to cache /var/lib/libretime/playout/scheduler/18.mp3
+2026-02-23 19:14:34,850 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:34,850 | INFO     | libretime_playout.player.fetch:main:311 - Loop #10
+2026-02-23 19:14:34,856 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:34,857 | INFO     | libretime_playout.player.queue:main:39 - waiting 25.142696s until next scheduled item
+2026-02-23 19:14:39,505 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:41,666 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6 to cache /var/lib/libretime/playout/scheduler/6.mp3
+2026-02-23 19:14:41,670 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:41,671 | INFO     | libretime_playout.player.fetch:main:311 - Loop #11
+2026-02-23 19:14:41,673 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:41,674 | INFO     | libretime_playout.player.queue:main:39 - waiting 18.325627s until next scheduled item
+2026-02-23 19:14:43,264 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7 to cache /var/lib/libretime/playout/scheduler/7.mp3
+2026-02-23 19:14:45,107 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 8 to cache /var/lib/libretime/playout/scheduler/8.mp3
+2026-02-23 19:14:56,705 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 19:14:59,040 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 9 to cache /var/lib/libretime/playout/scheduler/9.mp3
+2026-02-23 19:14:59,042 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 19:14:59,046 | INFO     | libretime_playout.player.fetch:main:311 - Loop #12
+2026-02-23 19:14:59,048 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:14:59,048 | INFO     | libretime_playout.player.queue:main:39 - waiting 0.951506s until next scheduled item
+2026-02-23 19:15:00,014 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.985166s until next scheduled item
+2026-02-23 19:15:04,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.95456s until next scheduled item
+2026-02-23 19:18:56,010 | INFO     | libretime_playout.player.queue:main:39 - waiting 299.989297s until next scheduled item
+2026-02-23 19:21:39,047 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:21:41,029 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:21:41,031 | INFO     | libretime_playout.player.queue:main:39 - waiting 134.968826s until next scheduled item
+2026-02-23 19:21:41,142 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/2.mp3' removed
+2026-02-23 19:21:41,249 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/17.wav' removed
+2026-02-23 19:21:41,251 | INFO     | libretime_playout.player.fetch:main:311 - Loop #13
+2026-02-23 19:23:56,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.993132s until next scheduled item
+2026-02-23 19:28:21,251 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:28:23,070 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:28:23,072 | INFO     | libretime_playout.player.queue:main:39 - waiting 23.928028s until next scheduled item
+2026-02-23 19:28:23,168 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/3.mp3' removed
+2026-02-23 19:28:23,168 | INFO     | libretime_playout.player.fetch:main:311 - Loop #14
+2026-02-23 19:28:47,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 6.991176s until next scheduled item
+2026-02-23 19:28:54,009 | INFO     | libretime_playout.player.queue:main:39 - waiting 279.991042s until next scheduled item
+2026-02-23 19:33:34,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 217.991896s until next scheduled item
+2026-02-23 19:35:03,169 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:35:04,475 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:35:04,476 | INFO     | libretime_playout.player.queue:main:39 - waiting 127.5231s until next scheduled item
+2026-02-23 19:35:04,567 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/10.mp3' removed
+2026-02-23 19:35:04,675 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/4.mp3' removed
+2026-02-23 19:35:04,758 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/24.mp3' removed
+2026-02-23 19:35:04,760 | INFO     | libretime_playout.player.fetch:main:311 - Loop #15
+2026-02-23 19:37:12,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 380.954927s until next scheduled item
+2026-02-23 19:41:44,760 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:41:45,967 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:41:45,968 | INFO     | libretime_playout.player.queue:main:39 - waiting 107.031392s until next scheduled item
+2026-02-23 19:41:46,061 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/11.mp3' removed
+2026-02-23 19:41:46,062 | INFO     | libretime_playout.player.fetch:main:311 - Loop #16
+2026-02-23 19:43:33,037 | INFO     | libretime_playout.player.queue:main:39 - waiting 19.962716s until next scheduled item
+2026-02-23 19:43:53,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 251.992605s until next scheduled item
+2026-02-23 19:48:05,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 307.955077s until next scheduled item
+2026-02-23 19:48:26,063 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:48:28,902 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-23 19:48:28,903 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:48:28,904 | INFO     | libretime_playout.player.queue:main:39 - waiting 284.095943s until next scheduled item
+2026-02-23 19:48:29,018 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/14.mp3' removed
+2026-02-23 19:48:29,127 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6.mp3' removed
+2026-02-23 19:48:29,233 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/18.mp3' removed
+2026-02-23 19:48:29,234 | INFO     | libretime_playout.player.fetch:main:311 - Loop #17
+2026-02-23 19:53:13,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 257.993088s until next scheduled item
+2026-02-23 19:55:09,234 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 19:55:14,146 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 19:55:14,147 | INFO     | libretime_playout.player.queue:main:39 - waiting 136.852473s until next scheduled item
+2026-02-23 19:55:14,267 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7.mp3' removed
+2026-02-23 19:55:14,267 | INFO     | libretime_playout.player.fetch:main:311 - Loop #18
+2026-02-23 19:57:31,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 148.956015s until next scheduled item
+2026-02-23 20:00:00,006 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 20:01:39,673 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:01:39,782 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:01:39,787 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 20:01:39,896 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/8.mp3' removed
+2026-02-23 20:01:40,010 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/9.mp3' removed
+2026-02-23 20:01:40,011 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:01:40,012 | INFO     | libretime_playout.player.fetch:main:311 - Loop #19
+2026-02-23 20:01:52,610 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:01:53,947 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 2 to cache /var/lib/libretime/playout/scheduler/2.mp3
+2026-02-23 20:01:53,948 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:01:53,949 | INFO     | libretime_playout.player.fetch:main:311 - Loop #20
+2026-02-23 20:01:53,956 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:01:53,956 | INFO     | libretime_playout.player.queue:main:39 - waiting 186.04359s until next scheduled item
+2026-02-23 20:01:55,378 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 3 to cache /var/lib/libretime/playout/scheduler/3.mp3
+2026-02-23 20:01:59,267 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 4 to cache /var/lib/libretime/playout/scheduler/4.mp3
+2026-02-23 20:01:59,471 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:02:01,027 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:02:01,029 | INFO     | libretime_playout.player.fetch:main:311 - Loop #21
+2026-02-23 20:02:01,034 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:02:01,035 | INFO     | libretime_playout.player.queue:main:39 - waiting 178.964375s until next scheduled item
+2026-02-23 20:02:01,124 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 17 to cache /var/lib/libretime/playout/scheduler/17.wav
+2026-02-23 20:02:01,295 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5 to cache /var/lib/libretime/playout/scheduler/5.mp3
+2026-02-23 20:02:03,147 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6 to cache /var/lib/libretime/playout/scheduler/6.mp3
+2026-02-23 20:02:04,719 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7 to cache /var/lib/libretime/playout/scheduler/7.mp3
+2026-02-23 20:02:06,530 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 8 to cache /var/lib/libretime/playout/scheduler/8.mp3
+2026-02-23 20:02:06,760 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:02:08,460 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 18 to cache /var/lib/libretime/playout/scheduler/18.mp3
+2026-02-23 20:02:08,462 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:02:08,462 | INFO     | libretime_playout.player.fetch:main:311 - Loop #22
+2026-02-23 20:02:08,468 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:02:08,469 | INFO     | libretime_playout.player.queue:main:39 - waiting 171.530657s until next scheduled item
+2026-02-23 20:02:11,758 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:02:13,578 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 21 to cache /var/lib/libretime/playout/scheduler/21.mp3
+2026-02-23 20:02:13,582 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:02:13,583 | INFO     | libretime_playout.player.fetch:main:311 - Loop #23
+2026-02-23 20:02:13,585 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:02:13,585 | INFO     | libretime_playout.player.queue:main:39 - waiting 166.41431s until next scheduled item
+2026-02-23 20:02:21,662 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:02:24,166 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:02:24,166 | INFO     | libretime_playout.player.fetch:main:311 - Loop #24
+2026-02-23 20:02:24,167 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 11 to cache /var/lib/libretime/playout/scheduler/11.mp3
+2026-02-23 20:02:24,172 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:02:24,173 | INFO     | libretime_playout.player.queue:main:39 - waiting 155.82694s until next scheduled item
+2026-02-23 20:02:25,536 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 12 to cache /var/lib/libretime/playout/scheduler/12.mp3
+2026-02-23 20:02:27,535 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 13 to cache /var/lib/libretime/playout/scheduler/13.mp3
+2026-02-23 20:02:29,704 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 15 to cache /var/lib/libretime/playout/scheduler/15.mp3
+2026-02-23 20:02:41,468 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:02:44,140 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 22 to cache /var/lib/libretime/playout/scheduler/22.mp3
+2026-02-23 20:02:44,144 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:02:44,145 | INFO     | libretime_playout.player.fetch:main:311 - Loop #25
+2026-02-23 20:02:44,149 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:02:44,150 | INFO     | libretime_playout.player.queue:main:39 - waiting 135.849847s until next scheduled item
+2026-02-23 20:05:00,021 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.978241s until next scheduled item
+2026-02-23 20:05:04,046 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.954004s until next scheduled item
+2026-02-23 20:08:56,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 299.992633s until next scheduled item
+2026-02-23 20:09:24,146 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:09:26,514 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:09:26,516 | INFO     | libretime_playout.player.queue:main:39 - waiting 269.483661s until next scheduled item
+2026-02-23 20:09:26,634 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/2.mp3' removed
+2026-02-23 20:09:26,744 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/17.wav' removed
+2026-02-23 20:09:26,746 | INFO     | libretime_playout.player.fetch:main:311 - Loop #26
+2026-02-23 20:09:56,042 | INFO     | libretime_playout.message_handler:on_message:52 - handling event reset_liquidsoap_bootstrap: {'event_type': 'reset_liquidsoap_bootstrap'}
+2026-02-23 20:09:56,152 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:09:58,368 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 368.1333055496216
+2026-02-23 20:09:58,369 | INFO     | libretime_playout.player.fetch:main:311 - Loop #27
+2026-02-23 20:10:03,027 | INFO     | libretime_playout.player.liquidsoap:verify_correct_present_media:288 - Need to add items to Liquidsoap *now*: {72}
+2026-02-23 20:10:03,028 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:10:03,029 | INFO     | libretime_playout.player.fetch:main:311 - Loop #28
+2026-02-23 20:10:03,178 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:10:03,179 | INFO     | libretime_playout.player.queue:main:39 - waiting 232.820837s until next scheduled item
+2026-02-23 20:13:56,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.993186s until next scheduled item
+2026-02-23 20:16:43,029 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:16:49,924 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:16:49,927 | INFO     | libretime_playout.player.queue:main:39 - waiting 117.072545s until next scheduled item
+2026-02-23 20:16:50,063 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/3.mp3' removed
+2026-02-23 20:16:50,064 | INFO     | libretime_playout.player.fetch:main:311 - Loop #29
+2026-02-23 20:16:52,418 | INFO     | libretime_playout.message_handler:on_message:52 - handling event reset_liquidsoap_bootstrap: {'event_type': 'reset_liquidsoap_bootstrap'}
+2026-02-23 20:16:52,531 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-23 20:16:52,607 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 397.3064980506897
+2026-02-23 20:16:52,607 | INFO     | libretime_playout.player.fetch:main:311 - Loop #30
+2026-02-23 20:16:54,798 | INFO     | libretime_playout.player.liquidsoap:verify_correct_present_media:288 - Need to add items to Liquidsoap *now*: {73}
+2026-02-23 20:16:54,803 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-23 20:16:54,803 | INFO     | libretime_playout.player.fetch:main:311 - Loop #31
+2026-02-23 20:16:54,949 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:16:54,950 | INFO     | libretime_playout.player.queue:main:39 - waiting 112.049809s until next scheduled item
+2026-02-23 20:18:47,005 | INFO     | libretime_playout.player.queue:main:39 - waiting 20.994247s until next scheduled item
+2026-02-23 20:19:08,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 329.955687s until next scheduled item
+2026-02-23 20:23:34,804 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:23:36,627 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:23:36,628 | INFO     | libretime_playout.player.queue:main:39 - waiting 61.371481s until next scheduled item
+2026-02-23 20:23:36,732 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/4.mp3' removed
+2026-02-23 20:23:36,830 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/18.mp3' removed
+2026-02-23 20:23:36,831 | INFO     | libretime_playout.player.fetch:main:311 - Loop #32
+2026-02-23 20:24:38,046 | INFO     | libretime_playout.player.queue:main:39 - waiting 250.9536s until next scheduled item
+2026-02-23 20:28:49,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 38.955513s until next scheduled item
+2026-02-23 20:29:28,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 308.956267s until next scheduled item
+2026-02-23 20:30:16,832 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:30:18,146 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:30:18,147 | INFO     | libretime_playout.player.queue:main:39 - waiting 258.8521s until next scheduled item
+2026-02-23 20:30:18,251 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/5.mp3' removed
+2026-02-23 20:30:18,346 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/21.mp3' removed
+2026-02-23 20:30:18,458 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6.mp3' removed
+2026-02-23 20:30:18,459 | INFO     | libretime_playout.player.fetch:main:311 - Loop #33
+2026-02-23 20:34:37,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 256.954933s until next scheduled item
+2026-02-23 20:36:58,460 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:36:59,600 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-23 20:36:59,601 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:36:59,602 | INFO     | libretime_playout.player.queue:main:39 - waiting 114.397533s until next scheduled item
+2026-02-23 20:36:59,695 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7.mp3' removed
+2026-02-23 20:36:59,695 | INFO     | libretime_playout.player.fetch:main:311 - Loop #34
+2026-02-23 20:38:54,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 217.954845s until next scheduled item
+2026-02-23 20:42:32,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 335.955015s until next scheduled item
+2026-02-23 20:43:39,696 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:43:40,496 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:43:40,497 | INFO     | libretime_playout.player.queue:main:39 - waiting 267.50269s until next scheduled item
+2026-02-23 20:43:40,590 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/11.mp3' removed
+2026-02-23 20:43:40,690 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/8.mp3' removed
+2026-02-23 20:43:40,691 | INFO     | libretime_playout.player.fetch:main:311 - Loop #35
+2026-02-23 20:48:08,046 | INFO     | libretime_playout.player.queue:main:39 - waiting 355.95395s until next scheduled item
+2026-02-23 20:50:20,692 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:50:21,323 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:50:21,324 | INFO     | libretime_playout.player.queue:main:39 - waiting 222.67536s until next scheduled item
+2026-02-23 20:50:21,427 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/12.mp3' removed
+2026-02-23 20:50:21,428 | INFO     | libretime_playout.player.fetch:main:311 - Loop #36
+2026-02-23 20:54:04,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 332.95571s until next scheduled item
+2026-02-23 20:57:01,428 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 20:57:01,884 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 20:57:01,885 | INFO     | libretime_playout.player.queue:main:39 - waiting 155.114533s until next scheduled item
+2026-02-23 20:57:01,988 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/13.mp3' removed
+2026-02-23 20:57:01,988 | INFO     | libretime_playout.player.fetch:main:311 - Loop #37
+2026-02-23 20:59:37,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 22.954905s until next scheduled item
+2026-02-23 21:00:00,004 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:03:41,989 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:03:42,096 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:03:42,097 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:03:42,208 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/15.mp3' removed
+2026-02-23 21:03:42,315 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/22.mp3' removed
+2026-02-23 21:03:42,316 | INFO     | libretime_playout.player.fetch:main:311 - Loop #38
+2026-02-23 21:10:22,317 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:10:22,421 | INFO     | libretime_playout.player.fetch:main:311 - Loop #39
+2026-02-23 21:10:22,424 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:10:22,425 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:17:02,421 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:17:02,521 | INFO     | libretime_playout.player.fetch:main:311 - Loop #40
+2026-02-23 21:17:02,524 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:17:02,524 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:23:42,521 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:23:42,620 | INFO     | libretime_playout.player.fetch:main:311 - Loop #41
+2026-02-23 21:23:42,622 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:23:42,622 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:30:22,621 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:30:22,724 | INFO     | libretime_playout.player.fetch:main:311 - Loop #42
+2026-02-23 21:30:22,729 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:30:22,729 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:37:02,725 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:37:02,822 | INFO     | libretime_playout.player.fetch:main:311 - Loop #43
+2026-02-23 21:37:02,826 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:37:02,826 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:43:42,823 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:43:42,924 | INFO     | libretime_playout.player.fetch:main:311 - Loop #44
+2026-02-23 21:43:42,929 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:43:42,929 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:50:22,925 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:50:23,023 | INFO     | libretime_playout.player.fetch:main:311 - Loop #45
+2026-02-23 21:50:23,027 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:50:23,027 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 21:57:03,024 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 21:57:03,123 | INFO     | libretime_playout.player.fetch:main:311 - Loop #46
+2026-02-23 21:57:03,126 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 21:57:03,126 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:03:43,124 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:03:43,223 | INFO     | libretime_playout.player.fetch:main:311 - Loop #47
+2026-02-23 22:03:43,226 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:03:43,227 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:10:23,223 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:10:23,324 | INFO     | libretime_playout.player.fetch:main:311 - Loop #48
+2026-02-23 22:10:23,330 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:10:23,330 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:17:03,325 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:17:03,425 | INFO     | libretime_playout.player.fetch:main:311 - Loop #49
+2026-02-23 22:17:03,428 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-23 22:17:03,428 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:17:03,429 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:23:43,426 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:23:43,525 | INFO     | libretime_playout.player.fetch:main:311 - Loop #50
+2026-02-23 22:23:43,529 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:23:43,530 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:30:23,526 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:30:23,626 | INFO     | libretime_playout.player.fetch:main:311 - Loop #51
+2026-02-23 22:30:23,629 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:30:23,629 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:37:03,626 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:37:03,726 | INFO     | libretime_playout.player.fetch:main:311 - Loop #52
+2026-02-23 22:37:03,729 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:37:03,729 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:43:43,727 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:43:43,826 | INFO     | libretime_playout.player.fetch:main:311 - Loop #53
+2026-02-23 22:43:43,832 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:43:43,832 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:50:23,827 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:50:23,928 | INFO     | libretime_playout.player.fetch:main:311 - Loop #54
+2026-02-23 22:50:23,933 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:50:23,933 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 22:57:03,928 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 22:57:04,027 | INFO     | libretime_playout.player.fetch:main:311 - Loop #55
+2026-02-23 22:57:04,031 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 22:57:04,032 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:03:44,028 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:03:44,131 | INFO     | libretime_playout.player.fetch:main:311 - Loop #56
+2026-02-23 23:03:44,136 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:03:44,136 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:10:24,132 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:10:24,231 | INFO     | libretime_playout.player.fetch:main:311 - Loop #57
+2026-02-23 23:10:24,235 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:10:24,236 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:17:04,232 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:17:04,331 | INFO     | libretime_playout.player.fetch:main:311 - Loop #58
+2026-02-23 23:17:04,336 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:17:04,336 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:23:44,332 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:23:44,432 | INFO     | libretime_playout.player.fetch:main:311 - Loop #59
+2026-02-23 23:23:44,436 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:23:44,436 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:30:24,432 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:30:24,533 | INFO     | libretime_playout.player.fetch:main:311 - Loop #60
+2026-02-23 23:30:24,537 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:30:24,537 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:37:04,534 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:37:04,635 | INFO     | libretime_playout.player.fetch:main:311 - Loop #61
+2026-02-23 23:37:04,641 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:37:04,641 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:43:44,636 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:43:44,734 | INFO     | libretime_playout.player.fetch:main:311 - Loop #62
+2026-02-23 23:43:44,738 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:43:44,738 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:50:24,736 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:50:24,836 | INFO     | libretime_playout.player.fetch:main:311 - Loop #63
+2026-02-23 23:50:24,838 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:50:24,838 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-23 23:57:04,836 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-23 23:57:04,935 | INFO     | libretime_playout.player.fetch:main:311 - Loop #64
+2026-02-23 23:57:04,939 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-23 23:57:04,939 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-23 23:57:04,940 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule

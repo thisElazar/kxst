@@ -1,0 +1,176 @@
+2026-03-07 00:00:00,024 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.976025s until next scheduled item
+2026-03-07 00:00:04,018 | INFO     | libretime_playout.player.queue:main:39 - waiting 29.981739s until next scheduled item
+2026-03-07 00:00:34,071 | INFO     | libretime_playout.player.queue:main:39 - waiting 38.928276s until next scheduled item
+2026-03-07 00:00:53,554 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-03-07 00:01:01,013 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 675 to cache /var/lib/libretime/playout/scheduler/675.mp3
+2026-03-07 00:01:01,021 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-03-07 00:01:01,022 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:01:01,023 | INFO     | libretime_playout.player.fetch:main:311 - Loop #78
+2026-03-07 00:01:01,024 | INFO     | libretime_playout.player.queue:main:39 - waiting 11.975919s until next scheduled item
+2026-03-07 00:01:01,670 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7711 to cache /var/lib/libretime/playout/scheduler/7711.mp3
+2026-03-07 00:01:02,889 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6437 to cache /var/lib/libretime/playout/scheduler/6437.mp3
+2026-03-07 00:01:08,705 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6811 to cache /var/lib/libretime/playout/scheduler/6811.mp3
+2026-03-07 00:01:09,761 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6626 to cache /var/lib/libretime/playout/scheduler/6626.mp3
+2026-03-07 00:01:13,057 | INFO     | libretime_playout.player.queue:main:39 - waiting 67.942545s until next scheduled item
+2026-03-07 00:01:14,001 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 932 to cache /var/lib/libretime/playout/scheduler/932.mp3
+2026-03-07 00:01:15,121 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7783 to cache /var/lib/libretime/playout/scheduler/7783.mp3
+2026-03-07 00:01:17,296 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7031 to cache /var/lib/libretime/playout/scheduler/7031.mp3
+2026-03-07 00:01:17,698 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6839 to cache /var/lib/libretime/playout/scheduler/6839.mp3
+2026-03-07 00:01:18,372 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6555 to cache /var/lib/libretime/playout/scheduler/6555.mp3
+2026-03-07 00:01:18,585 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6333 to cache /var/lib/libretime/playout/scheduler/6333.mp3
+2026-03-07 00:01:20,534 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6595 to cache /var/lib/libretime/playout/scheduler/6595.mp3
+2026-03-07 00:02:21,031 | INFO     | libretime_playout.player.queue:main:39 - waiting 15.968929s until next scheduled item
+2026-03-07 00:02:37,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 1446.955286s until next scheduled item
+2026-03-07 00:07:41,029 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:07:47,335 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:07:47,337 | INFO     | libretime_playout.player.queue:main:39 - waiting 1136.662796s until next scheduled item
+2026-03-07 00:07:47,428 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/22.mp3' removed
+2026-03-07 00:07:47,429 | INFO     | libretime_playout.player.fetch:main:311 - Loop #79
+2026-03-07 00:14:27,430 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:14:33,783 | INFO     | libretime_playout.player.fetch:main:311 - Loop #80
+2026-03-07 00:14:33,786 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:14:33,787 | INFO     | libretime_playout.player.queue:main:39 - waiting 730.212705s until next scheduled item
+2026-03-07 00:21:13,784 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:21:20,024 | INFO     | libretime_playout.player.fetch:main:311 - Loop #81
+2026-03-07 00:21:20,028 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:21:20,029 | INFO     | libretime_playout.player.queue:main:39 - waiting 323.970831s until next scheduled item
+2026-03-07 00:26:44,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 17.993448s until next scheduled item
+2026-03-07 00:27:02,046 | INFO     | libretime_playout.player.queue:main:39 - waiting 166.953782s until next scheduled item
+2026-03-07 00:28:00,025 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:28:00,031 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /api/v2/stream/preferences
+2026-03-07 00:28:05,762 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:28:05,763 | INFO     | libretime_playout.player.queue:main:39 - waiting 103.236127s until next scheduled item
+2026-03-07 00:28:05,854 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/5840.mp3' removed
+2026-03-07 00:28:05,962 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/615.mp3' removed
+2026-03-07 00:28:05,964 | INFO     | libretime_playout.player.fetch:main:311 - Loop #82
+2026-03-07 00:29:49,031 | INFO     | libretime_playout.player.queue:main:39 - waiting 14.968764s until next scheduled item
+2026-03-07 00:30:04,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 1456.99202s until next scheduled item
+2026-03-07 00:34:45,965 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:34:51,280 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:34:51,281 | INFO     | libretime_playout.player.queue:main:39 - waiting 1169.718652s until next scheduled item
+2026-03-07 00:34:51,366 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/494.mp3' removed
+2026-03-07 00:34:51,466 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/49.mp3' removed
+2026-03-07 00:34:51,467 | INFO     | libretime_playout.player.fetch:main:311 - Loop #83
+2026-03-07 00:41:31,468 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:41:36,675 | INFO     | libretime_playout.player.fetch:main:311 - Loop #84
+2026-03-07 00:41:36,682 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:41:36,682 | INFO     | libretime_playout.player.queue:main:39 - waiting 764.317388s until next scheduled item
+2026-03-07 00:48:16,676 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:48:16,682 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /api/v2/stream/preferences
+2026-03-07 00:48:21,916 | INFO     | libretime_playout.player.fetch:main:311 - Loop #85
+2026-03-07 00:48:21,923 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:48:21,923 | INFO     | libretime_playout.player.queue:main:39 - waiting 359.076295s until next scheduled item
+2026-03-07 00:54:21,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 25.955412s until next scheduled item
+2026-03-07 00:54:47,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 209.954755s until next scheduled item
+2026-03-07 00:55:01,917 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 00:55:01,923 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /api/v2/stream/preferences
+2026-03-07 00:55:06,696 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 00:55:06,697 | INFO     | libretime_playout.player.queue:main:39 - waiting 190.302613s until next scheduled item
+2026-03-07 00:55:06,784 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/2938.mp3' removed
+2026-03-07 00:55:06,886 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7838.mp3' removed
+2026-03-07 00:55:06,887 | INFO     | libretime_playout.player.fetch:main:311 - Loop #86
+2026-03-07 00:58:17,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 102.955845s until next scheduled item
+2026-03-07 01:00:00,011 | INFO     | libretime_playout.player.queue:main:39 - waiting 0s until next scheduled item
+2026-03-07 01:00:00,033 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.966714s until next scheduled item
+2026-03-07 01:00:04,027 | INFO     | libretime_playout.player.queue:main:39 - waiting 29.972872s until next scheduled item
+2026-03-07 01:00:34,030 | INFO     | libretime_playout.player.queue:main:39 - waiting 38.969359s until next scheduled item
+2026-03-07 01:01:13,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 70.954079s until next scheduled item
+2026-03-07 01:01:46,888 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:01:52,949 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7845 to cache /var/lib/libretime/playout/scheduler/7845.mp3
+2026-03-07 01:01:52,963 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:01:52,964 | INFO     | libretime_playout.player.queue:main:39 - waiting 31.0361s until next scheduled item
+2026-03-07 01:01:53,054 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/1797.mp3' removed
+2026-03-07 01:01:53,119 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7846 to cache /var/lib/libretime/playout/scheduler/7846.mp3
+2026-03-07 01:01:53,174 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7842.mp3' removed
+2026-03-07 01:01:53,287 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5841 to cache /var/lib/libretime/playout/scheduler/5841.mp3
+2026-03-07 01:01:53,293 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7840.mp3' removed
+2026-03-07 01:01:53,294 | INFO     | libretime_playout.player.fetch:main:311 - Loop #87
+2026-03-07 01:01:53,446 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 494 to cache /var/lib/libretime/playout/scheduler/494.mp3
+2026-03-07 01:01:53,632 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 3517 to cache /var/lib/libretime/playout/scheduler/3517.mp3
+2026-03-07 01:01:57,978 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7536 to cache /var/lib/libretime/playout/scheduler/7536.mp3
+2026-03-07 01:01:58,945 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5663 to cache /var/lib/libretime/playout/scheduler/5663.mp3
+2026-03-07 01:02:24,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 4.992181s until next scheduled item
+2026-03-07 01:02:29,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 180.95617s until next scheduled item
+2026-03-07 01:05:30,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 889.954536s until next scheduled item
+2026-03-07 01:08:33,294 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:08:38,301 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:08:38,303 | INFO     | libretime_playout.player.queue:main:39 - waiting 701.696742s until next scheduled item
+2026-03-07 01:08:38,403 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/1792.mp3' removed
+2026-03-07 01:08:38,499 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/675.mp3' removed
+2026-03-07 01:08:38,597 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7711.mp3' removed
+2026-03-07 01:08:38,599 | INFO     | libretime_playout.player.fetch:main:311 - Loop #88
+2026-03-07 01:15:18,599 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:15:23,577 | INFO     | libretime_playout.player.fetch:main:311 - Loop #89
+2026-03-07 01:15:23,581 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:15:23,582 | INFO     | libretime_playout.player.queue:main:39 - waiting 296.417967s until next scheduled item
+2026-03-07 01:20:20,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 148.992654s until next scheduled item
+2026-03-07 01:22:03,578 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:22:03,585 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /api/v2/stream/preferences
+2026-03-07 01:22:08,312 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:22:08,314 | INFO     | libretime_playout.player.queue:main:39 - waiting 40.685844s until next scheduled item
+2026-03-07 01:22:08,428 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6437.mp3' removed
+2026-03-07 01:22:08,428 | INFO     | libretime_playout.player.fetch:main:311 - Loop #90
+2026-03-07 01:22:49,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 676.99194s until next scheduled item
+2026-03-07 01:28:48,429 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:28:52,869 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:28:52,871 | INFO     | libretime_playout.player.queue:main:39 - waiting 313.128982s until next scheduled item
+2026-03-07 01:28:52,960 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6811.mp3' removed
+2026-03-07 01:28:52,961 | INFO     | libretime_playout.player.fetch:main:311 - Loop #91
+2026-03-07 01:34:06,009 | INFO     | libretime_playout.player.queue:main:39 - waiting 154.990812s until next scheduled item
+2026-03-07 01:35:32,961 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:35:32,968 | WARNING  | urllib3.connectionpool:urlopen:870 - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /api/v2/stream/preferences
+2026-03-07 01:35:37,267 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-03-07 01:35:37,267 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:35:37,269 | INFO     | libretime_playout.player.queue:main:39 - waiting 63.730797s until next scheduled item
+2026-03-07 01:35:37,384 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6626.mp3' removed
+2026-03-07 01:35:37,385 | INFO     | libretime_playout.player.fetch:main:311 - Loop #92
+2026-03-07 01:36:41,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 331.993733s until next scheduled item
+2026-03-07 01:42:13,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 49.99336s until next scheduled item
+2026-03-07 01:42:17,385 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:42:21,127 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:42:21,129 | INFO     | libretime_playout.player.queue:main:39 - waiting 41.870751s until next scheduled item
+2026-03-07 01:42:21,216 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/932.mp3' removed
+2026-03-07 01:42:21,345 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7783.mp3' removed
+2026-03-07 01:42:21,346 | INFO     | libretime_playout.player.fetch:main:311 - Loop #93
+2026-03-07 01:43:03,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 99.954773s until next scheduled item
+2026-03-07 01:44:43,041 | INFO     | libretime_playout.player.queue:main:39 - waiting 23.959006s until next scheduled item
+2026-03-07 01:45:07,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.955893s until next scheduled item
+2026-03-07 01:49:01,347 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:49:04,324 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:49:04,325 | INFO     | libretime_playout.player.queue:main:39 - waiting 53.674325s until next scheduled item
+2026-03-07 01:49:04,423 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6839.mp3' removed
+2026-03-07 01:49:04,535 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7031.mp3' removed
+2026-03-07 01:49:04,638 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6555.mp3' removed
+2026-03-07 01:49:04,639 | INFO     | libretime_playout.player.fetch:main:311 - Loop #94
+2026-03-07 01:49:58,050 | INFO     | libretime_playout.player.queue:main:39 - waiting 601.949784s until next scheduled item
+2026-03-07 01:55:44,640 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 01:55:47,430 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 01:55:47,432 | INFO     | libretime_playout.player.queue:main:39 - waiting 252.567731s until next scheduled item
+2026-03-07 01:55:47,535 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6333.mp3' removed
+2026-03-07 01:55:47,535 | INFO     | libretime_playout.player.fetch:main:311 - Loop #95
+2026-03-07 02:00:00,005 | INFO     | libretime_playout.player.queue:main:39 - waiting 0s until next scheduled item
+2026-03-07 02:00:00,027 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.972632s until next scheduled item
+2026-03-07 02:00:04,026 | INFO     | libretime_playout.player.queue:main:39 - waiting 29.973767s until next scheduled item
+2026-03-07 02:00:34,029 | INFO     | libretime_playout.player.queue:main:39 - waiting 34.970645s until next scheduled item
+2026-03-07 02:01:09,024 | INFO     | libretime_playout.player.queue:main:39 - waiting 10.976032s until next scheduled item
+2026-03-07 02:01:20,030 | INFO     | libretime_playout.player.queue:main:39 - waiting 15.969782s until next scheduled item
+2026-03-07 02:01:36,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 1816.956167s until next scheduled item
+2026-03-07 02:02:27,536 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 02:02:32,244 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5839 to cache /var/lib/libretime/playout/scheduler/5839.mp3
+2026-03-07 02:02:32,263 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 02:02:32,264 | INFO     | libretime_playout.player.queue:main:39 - waiting 1760.73604s until next scheduled item
+2026-03-07 02:02:32,354 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/5841.mp3' removed
+2026-03-07 02:02:32,356 | INFO     | libretime_playout.player.fetch:main:311 - Loop #96
+2026-03-07 02:02:32,377 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7821 to cache /var/lib/libretime/playout/scheduler/7821.mp3
+2026-03-07 02:02:34,230 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6577 to cache /var/lib/libretime/playout/scheduler/6577.mp3
+2026-03-07 02:02:35,340 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7145 to cache /var/lib/libretime/playout/scheduler/7145.mp3
+2026-03-07 02:02:37,542 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7770 to cache /var/lib/libretime/playout/scheduler/7770.mp3
+2026-03-07 02:02:43,810 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6730 to cache /var/lib/libretime/playout/scheduler/6730.mp3
+2026-03-07 02:02:44,643 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6453 to cache /var/lib/libretime/playout/scheduler/6453.mp3
+2026-03-07 02:02:45,617 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7108 to cache /var/lib/libretime/playout/scheduler/7108.mp3
+2026-03-07 02:02:48,346 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7156 to cache /var/lib/libretime/playout/scheduler/7156.mp3
+2026-03-07 02:09:12,357 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-03-07 02:09:16,773 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-03-07 02:09:16,775 | INFO     | libretime_playout.player.queue:main:39 - waiting 1356.224697s until next scheduled item
+2026-03-07 02:09:16,877 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6595.mp3' removed
+2026-03-07 02:09:16,877 | INFO     | libretime_playout.player.fetch:main:311 - Loop #97

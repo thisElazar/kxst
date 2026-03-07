@@ -1,0 +1,1147 @@
+2026-02-24 00:03:44,936 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:03:45,036 | INFO     | libretime_playout.player.fetch:main:311 - Loop #65
+2026-02-24 00:03:45,039 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:03:45,039 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:10:25,036 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:10:25,134 | INFO     | libretime_playout.player.fetch:main:311 - Loop #66
+2026-02-24 00:10:25,137 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:10:25,138 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:17:05,134 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:17:05,234 | INFO     | libretime_playout.player.fetch:main:311 - Loop #67
+2026-02-24 00:17:05,238 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:17:05,238 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:23:45,235 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:23:45,334 | INFO     | libretime_playout.player.fetch:main:311 - Loop #68
+2026-02-24 00:23:45,338 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:23:45,339 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:30:25,335 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:30:25,434 | INFO     | libretime_playout.player.fetch:main:311 - Loop #69
+2026-02-24 00:30:25,439 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:30:25,440 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:37:05,434 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:37:05,535 | INFO     | libretime_playout.player.fetch:main:311 - Loop #70
+2026-02-24 00:37:05,538 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:37:05,539 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:43:45,536 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:43:45,635 | INFO     | libretime_playout.player.fetch:main:311 - Loop #71
+2026-02-24 00:43:45,639 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:43:45,639 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:50:25,636 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:50:25,736 | INFO     | libretime_playout.player.fetch:main:311 - Loop #72
+2026-02-24 00:50:25,740 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:50:25,740 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 00:57:05,737 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 00:57:05,836 | INFO     | libretime_playout.player.fetch:main:311 - Loop #73
+2026-02-24 00:57:05,839 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 00:57:05,839 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:03:45,837 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:03:45,936 | INFO     | libretime_playout.player.fetch:main:311 - Loop #74
+2026-02-24 01:03:45,941 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:03:45,941 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:10:25,937 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:10:26,041 | INFO     | libretime_playout.player.fetch:main:311 - Loop #75
+2026-02-24 01:10:26,045 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:10:26,045 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:17:06,042 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:17:06,151 | INFO     | libretime_playout.player.fetch:main:311 - Loop #76
+2026-02-24 01:17:06,155 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:17:06,156 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:23:46,152 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:23:46,251 | INFO     | libretime_playout.player.fetch:main:311 - Loop #77
+2026-02-24 01:23:46,255 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:23:46,255 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:30:26,252 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:30:26,353 | INFO     | libretime_playout.player.fetch:main:311 - Loop #78
+2026-02-24 01:30:26,356 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:30:26,357 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:37:06,354 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:37:06,453 | INFO     | libretime_playout.player.fetch:main:311 - Loop #79
+2026-02-24 01:37:06,456 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 01:37:06,457 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:37:06,457 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:43:46,454 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:43:46,553 | INFO     | libretime_playout.player.fetch:main:311 - Loop #80
+2026-02-24 01:43:46,556 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:43:46,557 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:50:26,554 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:50:26,652 | INFO     | libretime_playout.player.fetch:main:311 - Loop #81
+2026-02-24 01:50:26,657 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:50:26,657 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 01:57:06,653 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 01:57:06,751 | INFO     | libretime_playout.player.fetch:main:311 - Loop #82
+2026-02-24 01:57:06,758 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 01:57:06,759 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:03:46,752 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:03:46,850 | INFO     | libretime_playout.player.fetch:main:311 - Loop #83
+2026-02-24 02:03:46,854 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:03:46,855 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:10:26,851 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:10:26,950 | INFO     | libretime_playout.player.fetch:main:311 - Loop #84
+2026-02-24 02:10:26,955 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:10:26,956 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:17:06,951 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:17:07,050 | INFO     | libretime_playout.player.fetch:main:311 - Loop #85
+2026-02-24 02:17:07,054 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:17:07,055 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:23:47,052 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:23:47,153 | INFO     | libretime_playout.player.fetch:main:311 - Loop #86
+2026-02-24 02:23:47,159 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:23:47,159 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:30:27,153 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:30:27,254 | INFO     | libretime_playout.player.fetch:main:311 - Loop #87
+2026-02-24 02:30:27,262 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:30:27,262 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:37:07,255 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:37:07,355 | INFO     | libretime_playout.player.fetch:main:311 - Loop #88
+2026-02-24 02:37:07,358 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:37:07,358 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:43:47,356 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:43:47,458 | INFO     | libretime_playout.player.fetch:main:311 - Loop #89
+2026-02-24 02:43:47,461 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:43:47,462 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:50:27,459 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:50:27,558 | INFO     | libretime_playout.player.fetch:main:311 - Loop #90
+2026-02-24 02:50:27,562 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:50:27,562 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 02:57:07,559 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 02:57:07,658 | INFO     | libretime_playout.player.fetch:main:311 - Loop #91
+2026-02-24 02:57:07,662 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 02:57:07,662 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:03:47,659 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:03:47,758 | INFO     | libretime_playout.player.fetch:main:311 - Loop #92
+2026-02-24 03:03:47,760 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:03:47,760 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:10:27,758 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:10:27,858 | INFO     | libretime_playout.player.fetch:main:311 - Loop #93
+2026-02-24 03:10:27,863 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:10:27,864 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:17:07,860 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:17:07,961 | INFO     | libretime_playout.player.fetch:main:311 - Loop #94
+2026-02-24 03:17:07,966 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 03:17:07,966 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:17:07,967 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:23:47,962 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:23:48,060 | INFO     | libretime_playout.player.fetch:main:311 - Loop #95
+2026-02-24 03:23:48,064 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:23:48,064 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:30:28,061 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:30:28,161 | INFO     | libretime_playout.player.fetch:main:311 - Loop #96
+2026-02-24 03:30:28,163 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:30:28,164 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:37:08,163 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:37:08,262 | INFO     | libretime_playout.player.fetch:main:311 - Loop #97
+2026-02-24 03:37:08,268 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:37:08,268 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:43:48,263 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:43:48,365 | INFO     | libretime_playout.player.fetch:main:311 - Loop #98
+2026-02-24 03:43:48,369 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:43:48,369 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:50:28,366 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:50:28,465 | INFO     | libretime_playout.player.fetch:main:311 - Loop #99
+2026-02-24 03:50:28,471 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:50:28,471 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 03:57:08,467 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 03:57:08,567 | INFO     | libretime_playout.player.fetch:main:311 - Loop #100
+2026-02-24 03:57:08,572 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 03:57:08,572 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:03:48,568 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:03:48,667 | INFO     | libretime_playout.player.fetch:main:311 - Loop #101
+2026-02-24 04:03:48,671 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:03:48,672 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:10:28,668 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:10:28,767 | INFO     | libretime_playout.player.fetch:main:311 - Loop #102
+2026-02-24 04:10:28,771 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:10:28,771 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:17:08,768 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:17:08,868 | INFO     | libretime_playout.player.fetch:main:311 - Loop #103
+2026-02-24 04:17:08,874 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:17:08,874 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:23:48,869 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:23:48,968 | INFO     | libretime_playout.player.fetch:main:311 - Loop #104
+2026-02-24 04:23:48,971 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:23:48,972 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:30:28,969 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:30:29,068 | INFO     | libretime_playout.player.fetch:main:311 - Loop #105
+2026-02-24 04:30:29,074 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:30:29,074 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:37:09,069 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:37:09,169 | INFO     | libretime_playout.player.fetch:main:311 - Loop #106
+2026-02-24 04:37:09,174 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:37:09,175 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:43:49,170 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:43:49,268 | INFO     | libretime_playout.player.fetch:main:311 - Loop #107
+2026-02-24 04:43:49,272 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:43:49,273 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:50:29,269 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:50:29,368 | INFO     | libretime_playout.player.fetch:main:311 - Loop #108
+2026-02-24 04:50:29,372 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:50:29,372 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 04:57:09,369 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 04:57:09,469 | INFO     | libretime_playout.player.fetch:main:311 - Loop #109
+2026-02-24 04:57:09,475 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 04:57:09,475 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 04:57:09,476 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:03:49,470 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:03:49,572 | INFO     | libretime_playout.player.fetch:main:311 - Loop #110
+2026-02-24 05:03:49,576 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:03:49,576 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:10:29,573 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:10:29,672 | INFO     | libretime_playout.player.fetch:main:311 - Loop #111
+2026-02-24 05:10:29,678 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:10:29,678 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:17:09,673 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:17:09,772 | INFO     | libretime_playout.player.fetch:main:311 - Loop #112
+2026-02-24 05:17:09,776 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:17:09,776 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:23:49,773 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:23:49,872 | INFO     | libretime_playout.player.fetch:main:311 - Loop #113
+2026-02-24 05:23:49,875 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:23:49,876 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:30:29,873 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:30:29,972 | INFO     | libretime_playout.player.fetch:main:311 - Loop #114
+2026-02-24 05:30:29,976 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:30:29,977 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:37:09,973 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:37:10,072 | INFO     | libretime_playout.player.fetch:main:311 - Loop #115
+2026-02-24 05:37:10,076 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:37:10,077 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:43:50,073 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:43:50,171 | INFO     | libretime_playout.player.fetch:main:311 - Loop #116
+2026-02-24 05:43:50,176 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:43:50,177 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:50:30,172 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:50:30,273 | INFO     | libretime_playout.player.fetch:main:311 - Loop #117
+2026-02-24 05:50:30,278 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:50:30,278 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 05:57:10,274 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 05:57:10,375 | INFO     | libretime_playout.player.fetch:main:311 - Loop #118
+2026-02-24 05:57:10,379 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 05:57:10,380 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:03:50,376 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:03:50,475 | INFO     | libretime_playout.player.fetch:main:311 - Loop #119
+2026-02-24 06:03:50,478 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:03:50,478 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:10:30,476 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:10:30,576 | INFO     | libretime_playout.player.fetch:main:311 - Loop #120
+2026-02-24 06:10:30,578 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:10:30,579 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:17:10,578 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:17:10,677 | INFO     | libretime_playout.player.fetch:main:311 - Loop #121
+2026-02-24 06:17:10,680 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:17:10,680 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:23:50,678 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:23:50,782 | INFO     | libretime_playout.player.fetch:main:311 - Loop #122
+2026-02-24 06:23:50,785 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:23:50,786 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:30:30,783 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:30:30,883 | INFO     | libretime_playout.player.fetch:main:311 - Loop #123
+2026-02-24 06:30:30,888 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:30:30,888 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:37:10,884 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:37:10,983 | INFO     | libretime_playout.player.fetch:main:311 - Loop #124
+2026-02-24 06:37:10,988 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 06:37:10,988 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:37:10,989 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:43:50,984 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:43:51,083 | INFO     | libretime_playout.player.fetch:main:311 - Loop #125
+2026-02-24 06:43:51,086 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:43:51,086 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:50:31,084 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:50:31,184 | INFO     | libretime_playout.player.fetch:main:311 - Loop #126
+2026-02-24 06:50:31,189 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:50:31,189 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 06:57:11,185 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 06:57:11,286 | INFO     | libretime_playout.player.fetch:main:311 - Loop #127
+2026-02-24 06:57:11,288 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 06:57:11,288 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:03:51,286 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:03:51,387 | INFO     | libretime_playout.player.fetch:main:311 - Loop #128
+2026-02-24 07:03:51,392 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:03:51,392 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:10:31,391 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:10:31,491 | INFO     | libretime_playout.player.fetch:main:311 - Loop #129
+2026-02-24 07:10:31,496 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:10:31,496 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:17:11,492 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:17:11,593 | INFO     | libretime_playout.player.fetch:main:311 - Loop #130
+2026-02-24 07:17:11,599 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:17:11,599 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:23:51,594 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:23:51,697 | INFO     | libretime_playout.player.fetch:main:311 - Loop #131
+2026-02-24 07:23:51,700 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:23:51,700 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:30:31,698 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:30:31,798 | INFO     | libretime_playout.player.fetch:main:311 - Loop #132
+2026-02-24 07:30:31,801 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:30:31,801 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:37:11,799 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:37:11,901 | INFO     | libretime_playout.player.fetch:main:311 - Loop #133
+2026-02-24 07:37:11,907 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:37:11,907 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:43:51,902 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:43:52,002 | INFO     | libretime_playout.player.fetch:main:311 - Loop #134
+2026-02-24 07:43:52,005 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:43:52,005 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:50:32,002 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:50:32,103 | INFO     | libretime_playout.player.fetch:main:311 - Loop #135
+2026-02-24 07:50:32,108 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:50:32,109 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 07:57:12,104 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 07:57:12,204 | INFO     | libretime_playout.player.fetch:main:311 - Loop #136
+2026-02-24 07:57:12,206 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 07:57:12,206 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:03:52,205 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:03:52,304 | INFO     | libretime_playout.player.fetch:main:311 - Loop #137
+2026-02-24 08:03:52,308 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:03:52,308 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:10:32,305 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:10:32,405 | INFO     | libretime_playout.player.fetch:main:311 - Loop #138
+2026-02-24 08:10:32,409 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:10:32,409 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:17:12,405 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:17:12,505 | INFO     | libretime_playout.player.fetch:main:311 - Loop #139
+2026-02-24 08:17:12,509 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 08:17:12,510 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:17:12,510 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:23:52,506 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:23:52,604 | INFO     | libretime_playout.player.fetch:main:311 - Loop #140
+2026-02-24 08:23:52,609 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:23:52,609 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:30:32,604 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:30:32,704 | INFO     | libretime_playout.player.fetch:main:311 - Loop #141
+2026-02-24 08:30:32,709 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:30:32,709 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:37:12,705 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:37:12,804 | INFO     | libretime_playout.player.fetch:main:311 - Loop #142
+2026-02-24 08:37:12,808 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:37:12,808 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:43:52,805 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:43:52,905 | INFO     | libretime_playout.player.fetch:main:311 - Loop #143
+2026-02-24 08:43:52,908 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:43:52,908 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:50:32,905 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:50:33,005 | INFO     | libretime_playout.player.fetch:main:311 - Loop #144
+2026-02-24 08:50:33,011 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:50:33,011 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 08:57:13,006 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 08:57:13,105 | INFO     | libretime_playout.player.fetch:main:311 - Loop #145
+2026-02-24 08:57:13,109 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 08:57:13,109 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:03:53,106 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:03:53,205 | INFO     | libretime_playout.player.fetch:main:311 - Loop #146
+2026-02-24 09:03:53,208 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:03:53,209 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:10:33,206 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:10:33,306 | INFO     | libretime_playout.player.fetch:main:311 - Loop #147
+2026-02-24 09:10:33,312 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:10:33,313 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:17:13,307 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:17:13,404 | INFO     | libretime_playout.player.fetch:main:311 - Loop #148
+2026-02-24 09:17:13,408 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:17:13,408 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:23:53,405 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:23:53,504 | INFO     | libretime_playout.player.fetch:main:311 - Loop #149
+2026-02-24 09:23:53,508 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:23:53,508 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:30:33,504 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:30:33,605 | INFO     | libretime_playout.player.fetch:main:311 - Loop #150
+2026-02-24 09:30:33,609 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:30:33,610 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:37:13,606 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:37:13,706 | INFO     | libretime_playout.player.fetch:main:311 - Loop #151
+2026-02-24 09:37:13,711 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:37:13,712 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:43:53,706 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:43:53,806 | INFO     | libretime_playout.player.fetch:main:311 - Loop #152
+2026-02-24 09:43:53,810 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:43:53,811 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:50:33,807 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:50:33,906 | INFO     | libretime_playout.player.fetch:main:311 - Loop #153
+2026-02-24 09:50:33,910 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:50:33,910 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 09:57:13,907 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 09:57:14,081 | INFO     | libretime_playout.player.fetch:main:311 - Loop #154
+2026-02-24 09:57:14,085 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 09:57:14,085 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 09:57:14,085 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:03:54,082 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:03:54,181 | INFO     | libretime_playout.player.fetch:main:311 - Loop #155
+2026-02-24 10:03:54,185 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:03:54,185 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:10:34,182 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:10:34,284 | INFO     | libretime_playout.player.fetch:main:311 - Loop #156
+2026-02-24 10:10:34,285 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:10:34,286 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:17:14,285 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:17:14,384 | INFO     | libretime_playout.player.fetch:main:311 - Loop #157
+2026-02-24 10:17:14,387 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:17:14,387 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:23:54,384 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:23:54,483 | INFO     | libretime_playout.player.fetch:main:311 - Loop #158
+2026-02-24 10:23:54,488 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:23:54,488 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:30:34,484 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:30:34,583 | INFO     | libretime_playout.player.fetch:main:311 - Loop #159
+2026-02-24 10:30:34,587 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:30:34,587 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:37:14,584 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:37:14,682 | INFO     | libretime_playout.player.fetch:main:311 - Loop #160
+2026-02-24 10:37:14,687 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:37:14,688 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:43:54,683 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:43:54,783 | INFO     | libretime_playout.player.fetch:main:311 - Loop #161
+2026-02-24 10:43:54,787 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:43:54,788 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:50:34,784 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:50:34,883 | INFO     | libretime_playout.player.fetch:main:311 - Loop #162
+2026-02-24 10:50:34,887 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:50:34,888 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 10:57:14,884 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 10:57:14,983 | INFO     | libretime_playout.player.fetch:main:311 - Loop #163
+2026-02-24 10:57:14,988 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 10:57:14,988 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:03:54,984 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:03:55,083 | INFO     | libretime_playout.player.fetch:main:311 - Loop #164
+2026-02-24 11:03:55,087 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:03:55,087 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:10:35,084 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:10:35,183 | INFO     | libretime_playout.player.fetch:main:311 - Loop #165
+2026-02-24 11:10:35,186 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:10:35,187 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:17:15,184 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:17:15,283 | INFO     | libretime_playout.player.fetch:main:311 - Loop #166
+2026-02-24 11:17:15,286 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:17:15,287 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:23:55,284 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:23:55,383 | INFO     | libretime_playout.player.fetch:main:311 - Loop #167
+2026-02-24 11:23:55,386 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:23:55,386 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:30:35,384 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:30:35,482 | INFO     | libretime_playout.player.fetch:main:311 - Loop #168
+2026-02-24 11:30:35,484 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:30:35,485 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:37:15,482 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:37:15,583 | INFO     | libretime_playout.player.fetch:main:311 - Loop #169
+2026-02-24 11:37:15,587 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 11:37:15,587 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:37:15,588 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:43:55,584 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:43:55,684 | INFO     | libretime_playout.player.fetch:main:311 - Loop #170
+2026-02-24 11:43:55,689 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:43:55,689 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:50:35,685 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:50:35,783 | INFO     | libretime_playout.player.fetch:main:311 - Loop #171
+2026-02-24 11:50:35,786 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:50:35,787 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 11:57:15,784 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 11:57:15,883 | INFO     | libretime_playout.player.fetch:main:311 - Loop #172
+2026-02-24 11:57:15,886 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 11:57:15,887 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:03:55,884 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:03:55,982 | INFO     | libretime_playout.player.fetch:main:311 - Loop #173
+2026-02-24 12:03:55,987 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:03:55,987 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:10:35,984 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:10:36,083 | INFO     | libretime_playout.player.fetch:main:311 - Loop #174
+2026-02-24 12:10:36,086 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:10:36,087 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:17:16,084 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:17:16,183 | INFO     | libretime_playout.player.fetch:main:311 - Loop #175
+2026-02-24 12:17:16,186 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:17:16,187 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:23:56,184 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:23:56,284 | INFO     | libretime_playout.player.fetch:main:311 - Loop #176
+2026-02-24 12:23:56,288 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:23:56,289 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:30:36,285 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:30:36,384 | INFO     | libretime_playout.player.fetch:main:311 - Loop #177
+2026-02-24 12:30:36,388 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:30:36,388 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:37:16,384 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:37:16,483 | INFO     | libretime_playout.player.fetch:main:311 - Loop #178
+2026-02-24 12:37:16,488 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:37:16,489 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:37:26,802 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 12:37:26,902 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 12:37:26,902 | INFO     | libretime_playout.player.fetch:main:311 - Loop #179
+2026-02-24 12:37:26,907 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:37:26,908 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 12:37:36,449 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 12:37:36,742 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 17 to cache /var/lib/libretime/playout/scheduler/17.wav
+2026-02-24 12:37:36,746 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 12:37:36,746 | INFO     | libretime_playout.player.fetch:main:311 - Loop #180
+2026-02-24 12:37:36,751 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:37:36,751 | INFO     | libretime_playout.player.queue:main:39 - waiting 143.248534s until next scheduled item
+2026-02-24 12:38:02,124 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 12:38:04,108 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 96 to cache /var/lib/libretime/playout/scheduler/96.mp3
+2026-02-24 12:38:04,110 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 12:38:04,111 | INFO     | libretime_playout.player.fetch:main:311 - Loop #181
+2026-02-24 12:38:04,115 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:38:04,116 | INFO     | libretime_playout.player.queue:main:39 - waiting 115.883737s until next scheduled item
+2026-02-24 12:38:06,511 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 48 to cache /var/lib/libretime/playout/scheduler/48.mp3
+2026-02-24 12:38:07,161 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 125 to cache /var/lib/libretime/playout/scheduler/125.mp3
+2026-02-24 12:38:11,480 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 98 to cache /var/lib/libretime/playout/scheduler/98.mp3
+2026-02-24 12:38:11,888 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 112 to cache /var/lib/libretime/playout/scheduler/112.mp3
+2026-02-24 12:38:13,774 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 71 to cache /var/lib/libretime/playout/scheduler/71.mp3
+2026-02-24 12:38:16,859 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 103 to cache /var/lib/libretime/playout/scheduler/103.mp3
+2026-02-24 12:38:19,203 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 59 to cache /var/lib/libretime/playout/scheduler/59.mp3
+2026-02-24 12:38:20,768 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 76 to cache /var/lib/libretime/playout/scheduler/76.mp3
+2026-02-24 12:38:24,848 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 86 to cache /var/lib/libretime/playout/scheduler/86.mp3
+2026-02-24 12:40:00,023 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.976946s until next scheduled item
+2026-02-24 12:40:04,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 377.954989s until next scheduled item
+2026-02-24 12:44:44,111 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:44:45,931 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:44:45,932 | INFO     | libretime_playout.player.queue:main:39 - waiting 96.067585s until next scheduled item
+2026-02-24 12:44:46,021 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/17.wav' removed
+2026-02-24 12:44:46,022 | INFO     | libretime_playout.player.fetch:main:311 - Loop #182
+2026-02-24 12:46:22,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 100.95495s until next scheduled item
+2026-02-24 12:48:03,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 681.955586s until next scheduled item
+2026-02-24 12:51:26,022 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:51:27,528 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:51:27,529 | INFO     | libretime_playout.player.queue:main:39 - waiting 477.470751s until next scheduled item
+2026-02-24 12:51:27,637 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/96.mp3' removed
+2026-02-24 12:51:27,748 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/48.mp3' removed
+2026-02-24 12:51:27,749 | INFO     | libretime_playout.player.fetch:main:311 - Loop #183
+2026-02-24 12:58:07,750 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 12:58:09,218 | INFO     | libretime_playout.player.fetch:main:311 - Loop #184
+2026-02-24 12:58:09,222 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 12:58:09,222 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 12:58:09,223 | INFO     | libretime_playout.player.queue:main:39 - waiting 75.776931s until next scheduled item
+2026-02-24 12:59:25,005 | INFO     | libretime_playout.player.queue:main:39 - waiting 42.994392s until next scheduled item
+2026-02-24 13:00:08,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.994001s until next scheduled item
+2026-02-24 13:04:49,219 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:04:50,361 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:04:50,362 | INFO     | libretime_playout.player.queue:main:39 - waiting 8.637188s until next scheduled item
+2026-02-24 13:04:50,458 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/98.mp3' removed
+2026-02-24 13:04:50,572 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/125.mp3' removed
+2026-02-24 13:04:50,573 | INFO     | libretime_playout.player.fetch:main:311 - Loop #185
+2026-02-24 13:04:59,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 507.991891s until next scheduled item
+2026-02-24 13:11:30,574 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:11:31,540 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:11:31,541 | INFO     | libretime_playout.player.queue:main:39 - waiting 115.458089s until next scheduled item
+2026-02-24 13:11:31,640 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/112.mp3' removed
+2026-02-24 13:11:31,640 | INFO     | libretime_playout.player.fetch:main:311 - Loop #186
+2026-02-24 13:13:27,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 367.993627s until next scheduled item
+2026-02-24 13:18:11,641 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:18:12,441 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:18:12,443 | INFO     | libretime_playout.player.queue:main:39 - waiting 82.556854s until next scheduled item
+2026-02-24 13:18:12,552 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/71.mp3' removed
+2026-02-24 13:18:12,553 | INFO     | libretime_playout.player.fetch:main:311 - Loop #187
+2026-02-24 13:19:35,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 238.956085s until next scheduled item
+2026-02-24 13:23:34,046 | INFO     | libretime_playout.player.queue:main:39 - waiting 662.953496s until next scheduled item
+2026-02-24 13:24:52,554 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:24:53,003 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:24:53,004 | INFO     | libretime_playout.player.queue:main:39 - waiting 583.995227s until next scheduled item
+2026-02-24 13:24:53,109 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/103.mp3' removed
+2026-02-24 13:24:53,219 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/59.mp3' removed
+2026-02-24 13:24:53,220 | INFO     | libretime_playout.player.fetch:main:311 - Loop #188
+2026-02-24 13:31:33,221 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:31:33,669 | INFO     | libretime_playout.player.fetch:main:311 - Loop #189
+2026-02-24 13:31:33,674 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:31:33,675 | INFO     | libretime_playout.player.queue:main:39 - waiting 183.324975s until next scheduled item
+2026-02-24 13:34:37,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 322.956078s until next scheduled item
+2026-02-24 13:38:13,670 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:38:13,951 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:38:13,952 | INFO     | libretime_playout.player.queue:main:39 - waiting 106.047267s until next scheduled item
+2026-02-24 13:38:14,059 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/76.mp3' removed
+2026-02-24 13:38:14,060 | INFO     | libretime_playout.player.fetch:main:311 - Loop #190
+2026-02-24 13:40:00,006 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 13:42:53,969 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:42:54,081 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:42:54,083 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 13:42:54,193 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/86.mp3' removed
+2026-02-24 13:42:54,193 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:42:54,194 | INFO     | libretime_playout.player.fetch:main:311 - Loop #191
+2026-02-24 13:43:12,594 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:43:12,878 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 17 to cache /var/lib/libretime/playout/scheduler/17.wav
+2026-02-24 13:43:12,883 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:43:12,885 | INFO     | libretime_playout.player.fetch:main:311 - Loop #192
+2026-02-24 13:43:12,886 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:43:12,886 | INFO     | libretime_playout.player.queue:main:39 - waiting 107.113492s until next scheduled item
+2026-02-24 13:43:26,557 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:43:28,047 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7 to cache /var/lib/libretime/playout/scheduler/7.mp3
+2026-02-24 13:43:28,049 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:43:28,053 | INFO     | libretime_playout.player.fetch:main:311 - Loop #193
+2026-02-24 13:43:28,055 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:43:28,056 | INFO     | libretime_playout.player.queue:main:39 - waiting 91.943833s until next scheduled item
+2026-02-24 13:43:29,892 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 3 to cache /var/lib/libretime/playout/scheduler/3.mp3
+2026-02-24 13:43:31,602 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6 to cache /var/lib/libretime/playout/scheduler/6.mp3
+2026-02-24 13:43:33,212 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 8 to cache /var/lib/libretime/playout/scheduler/8.mp3
+2026-02-24 13:43:34,633 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 2 to cache /var/lib/libretime/playout/scheduler/2.mp3
+2026-02-24 13:43:36,080 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5 to cache /var/lib/libretime/playout/scheduler/5.mp3
+2026-02-24 13:43:37,965 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 4 to cache /var/lib/libretime/playout/scheduler/4.mp3
+2026-02-24 13:43:39,048 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:43:41,465 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 41 to cache /var/lib/libretime/playout/scheduler/41.mp3
+2026-02-24 13:43:41,469 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:43:41,469 | INFO     | libretime_playout.player.fetch:main:311 - Loop #194
+2026-02-24 13:43:41,474 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:43:41,475 | INFO     | libretime_playout.player.queue:main:39 - waiting 78.5249s until next scheduled item
+2026-02-24 13:43:43,595 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 30 to cache /var/lib/libretime/playout/scheduler/30.mp3
+2026-02-24 13:43:45,087 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 58 to cache /var/lib/libretime/playout/scheduler/58.mp3
+2026-02-24 13:43:48,734 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:43:48,985 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 49 to cache /var/lib/libretime/playout/scheduler/49.mp3
+2026-02-24 13:43:50,090 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 44 to cache /var/lib/libretime/playout/scheduler/44.mp3
+2026-02-24 13:43:51,333 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:43:51,333 | INFO     | libretime_playout.player.fetch:main:311 - Loop #195
+2026-02-24 13:43:51,338 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:43:51,338 | INFO     | libretime_playout.player.queue:main:39 - waiting 68.661515s until next scheduled item
+2026-02-24 13:43:56,110 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:43:58,453 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:43:58,453 | INFO     | libretime_playout.player.fetch:main:311 - Loop #196
+2026-02-24 13:43:58,457 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:43:58,457 | INFO     | libretime_playout.player.queue:main:39 - waiting 61.542172s until next scheduled item
+2026-02-24 13:44:21,351 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 13:44:23,858 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 21 to cache /var/lib/libretime/playout/scheduler/21.mp3
+2026-02-24 13:44:23,860 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 13:44:23,863 | INFO     | libretime_playout.player.fetch:main:311 - Loop #197
+2026-02-24 13:44:23,867 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:44:23,867 | INFO     | libretime_playout.player.queue:main:39 - waiting 36.132474s until next scheduled item
+2026-02-24 13:45:00,021 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.978115s until next scheduled item
+2026-02-24 13:45:04,047 | INFO     | libretime_playout.player.queue:main:39 - waiting 307.952843s until next scheduled item
+2026-02-24 13:50:12,008 | INFO     | libretime_playout.player.queue:main:39 - waiting 299.991761s until next scheduled item
+2026-02-24 13:51:03,864 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:51:06,032 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:51:06,034 | INFO     | libretime_playout.player.queue:main:39 - waiting 245.965929s until next scheduled item
+2026-02-24 13:51:06,130 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/17.wav' removed
+2026-02-24 13:51:06,237 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7.mp3' removed
+2026-02-24 13:51:06,238 | INFO     | libretime_playout.player.fetch:main:311 - Loop #198
+2026-02-24 13:55:12,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 256.993892s until next scheduled item
+2026-02-24 13:57:46,239 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 13:57:48,238 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 13:57:48,239 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 13:57:48,241 | INFO     | libretime_playout.player.queue:main:39 - waiting 100.75852s until next scheduled item
+2026-02-24 13:57:48,336 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/3.mp3' removed
+2026-02-24 13:57:48,336 | INFO     | libretime_playout.player.fetch:main:311 - Loop #199
+2026-02-24 13:59:29,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 251.994049s until next scheduled item
+2026-02-24 14:03:41,045 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.954651s until next scheduled item
+2026-02-24 14:04:28,337 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:04:29,986 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:04:29,987 | INFO     | libretime_playout.player.queue:main:39 - waiting 183.012599s until next scheduled item
+2026-02-24 14:04:30,082 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/8.mp3' removed
+2026-02-24 14:04:30,187 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6.mp3' removed
+2026-02-24 14:04:30,188 | INFO     | libretime_playout.player.fetch:main:311 - Loop #200
+2026-02-24 14:07:33,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 329.99221s until next scheduled item
+2026-02-24 14:11:10,188 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:11:11,735 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:11:11,737 | INFO     | libretime_playout.player.queue:main:39 - waiting 111.262905s until next scheduled item
+2026-02-24 14:11:11,837 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/2.mp3' removed
+2026-02-24 14:11:11,838 | INFO     | libretime_playout.player.fetch:main:311 - Loop #201
+2026-02-24 14:13:03,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.993983s until next scheduled item
+2026-02-24 14:17:51,839 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:17:53,229 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:17:53,230 | INFO     | libretime_playout.player.queue:main:39 - waiting 0.769675s until next scheduled item
+2026-02-24 14:17:53,336 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/5.mp3' removed
+2026-02-24 14:17:53,337 | INFO     | libretime_playout.player.fetch:main:311 - Loop #202
+2026-02-24 14:17:54,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 38.99314s until next scheduled item
+2026-02-24 14:18:33,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 351.994046s until next scheduled item
+2026-02-24 14:24:25,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 240.993511s until next scheduled item
+2026-02-24 14:24:33,337 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:24:34,130 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:24:34,131 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.868718s until next scheduled item
+2026-02-24 14:24:34,226 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/21.mp3' removed
+2026-02-24 14:24:34,336 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/41.mp3' removed
+2026-02-24 14:24:34,451 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/4.mp3' removed
+2026-02-24 14:24:34,452 | INFO     | libretime_playout.player.fetch:main:311 - Loop #203
+2026-02-24 14:28:26,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 165.993118s until next scheduled item
+2026-02-24 14:31:12,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 613.993594s until next scheduled item
+2026-02-24 14:31:14,453 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:31:14,909 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:31:14,910 | INFO     | libretime_playout.player.queue:main:39 - waiting 611.0892s until next scheduled item
+2026-02-24 14:31:15,007 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/49.mp3' removed
+2026-02-24 14:31:15,123 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/30.mp3' removed
+2026-02-24 14:31:15,124 | INFO     | libretime_playout.player.fetch:main:311 - Loop #204
+2026-02-24 14:37:55,125 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:37:55,571 | INFO     | libretime_playout.player.fetch:main:311 - Loop #205
+2026-02-24 14:37:55,576 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:37:55,576 | INFO     | libretime_playout.player.queue:main:39 - waiting 210.423144s until next scheduled item
+2026-02-24 14:41:26,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 213.992948s until next scheduled item
+2026-02-24 14:44:35,572 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:44:35,856 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:44:35,857 | INFO     | libretime_playout.player.queue:main:39 - waiting 24.142217s until next scheduled item
+2026-02-24 14:44:35,958 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/58.mp3' removed
+2026-02-24 14:44:35,958 | INFO     | libretime_playout.player.fetch:main:311 - Loop #206
+2026-02-24 14:45:00,005 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 14:51:15,959 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:51:16,076 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:51:16,077 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 14:51:16,187 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/44.mp3' removed
+2026-02-24 14:51:16,187 | INFO     | libretime_playout.player.fetch:main:311 - Loop #207
+2026-02-24 14:57:56,188 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 14:57:56,289 | INFO     | libretime_playout.player.fetch:main:311 - Loop #208
+2026-02-24 14:57:56,293 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 14:57:56,294 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:04:36,290 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:04:36,389 | INFO     | libretime_playout.player.fetch:main:311 - Loop #209
+2026-02-24 15:04:36,394 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:04:36,395 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:11:16,390 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:11:16,490 | INFO     | libretime_playout.player.fetch:main:311 - Loop #210
+2026-02-24 15:11:16,496 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:11:16,496 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:17:56,491 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:17:56,590 | INFO     | libretime_playout.player.fetch:main:311 - Loop #211
+2026-02-24 15:17:56,597 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:17:56,597 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:24:36,591 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:24:36,690 | INFO     | libretime_playout.player.fetch:main:311 - Loop #212
+2026-02-24 15:24:36,695 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:24:36,695 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:31:16,692 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:31:16,794 | INFO     | libretime_playout.player.fetch:main:311 - Loop #213
+2026-02-24 15:31:16,796 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:31:16,796 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:37:56,794 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:37:56,892 | INFO     | libretime_playout.player.fetch:main:311 - Loop #214
+2026-02-24 15:37:56,897 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 15:37:56,897 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:37:56,898 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:44:36,893 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:44:37,076 | INFO     | libretime_playout.player.fetch:main:311 - Loop #215
+2026-02-24 15:44:37,081 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:44:37,081 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:51:17,077 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:51:17,175 | INFO     | libretime_playout.player.fetch:main:311 - Loop #216
+2026-02-24 15:51:17,179 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:51:17,179 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 15:57:57,176 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 15:57:57,275 | INFO     | libretime_playout.player.fetch:main:311 - Loop #217
+2026-02-24 15:57:57,278 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 15:57:57,279 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:04:37,276 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:04:37,374 | INFO     | libretime_playout.player.fetch:main:311 - Loop #218
+2026-02-24 16:04:37,378 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:04:37,379 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:11:17,375 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:11:17,474 | INFO     | libretime_playout.player.fetch:main:311 - Loop #219
+2026-02-24 16:11:17,479 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:11:17,480 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:17:57,475 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:17:57,574 | INFO     | libretime_playout.player.fetch:main:311 - Loop #220
+2026-02-24 16:17:57,577 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:17:57,578 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:24:37,574 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:24:37,674 | INFO     | libretime_playout.player.fetch:main:311 - Loop #221
+2026-02-24 16:24:37,678 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:24:37,678 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:31:17,675 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:31:17,774 | INFO     | libretime_playout.player.fetch:main:311 - Loop #222
+2026-02-24 16:31:17,778 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:31:17,778 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:37:57,774 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:37:57,875 | INFO     | libretime_playout.player.fetch:main:311 - Loop #223
+2026-02-24 16:37:57,879 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:37:57,880 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:44:37,876 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:44:37,979 | INFO     | libretime_playout.player.fetch:main:311 - Loop #224
+2026-02-24 16:44:37,982 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:44:37,983 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:51:17,980 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:51:18,079 | INFO     | libretime_playout.player.fetch:main:311 - Loop #225
+2026-02-24 16:51:18,083 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:51:18,083 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 16:57:58,080 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 16:57:58,179 | INFO     | libretime_playout.player.fetch:main:311 - Loop #226
+2026-02-24 16:57:58,184 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 16:57:58,184 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:04:38,179 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:04:38,279 | INFO     | libretime_playout.player.fetch:main:311 - Loop #227
+2026-02-24 17:04:38,281 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:04:38,282 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:11:18,279 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:11:18,378 | INFO     | libretime_playout.player.fetch:main:311 - Loop #228
+2026-02-24 17:11:18,382 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:11:18,383 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:17:58,378 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:17:58,478 | INFO     | libretime_playout.player.fetch:main:311 - Loop #229
+2026-02-24 17:17:58,483 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 17:17:58,483 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:17:58,484 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:24:38,479 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:24:38,578 | INFO     | libretime_playout.player.fetch:main:311 - Loop #230
+2026-02-24 17:24:38,582 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:24:38,582 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:31:18,579 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:31:18,680 | INFO     | libretime_playout.player.fetch:main:311 - Loop #231
+2026-02-24 17:31:18,683 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:31:18,684 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:37:58,681 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:37:58,780 | INFO     | libretime_playout.player.fetch:main:311 - Loop #232
+2026-02-24 17:37:58,784 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:37:58,784 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:44:38,780 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:44:38,881 | INFO     | libretime_playout.player.fetch:main:311 - Loop #233
+2026-02-24 17:44:38,885 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:44:38,885 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:51:18,881 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:51:18,981 | INFO     | libretime_playout.player.fetch:main:311 - Loop #234
+2026-02-24 17:51:18,982 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:51:18,982 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 17:57:58,981 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 17:57:59,081 | INFO     | libretime_playout.player.fetch:main:311 - Loop #235
+2026-02-24 17:57:59,084 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 17:57:59,084 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 18:04:39,082 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:04:39,181 | INFO     | libretime_playout.player.fetch:main:311 - Loop #236
+2026-02-24 18:04:39,185 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:04:39,185 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 18:08:06,643 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:08:06,746 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:08:06,747 | INFO     | libretime_playout.player.fetch:main:311 - Loop #237
+2026-02-24 18:08:06,751 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:08:06,751 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 18:08:47,759 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:08:48,053 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 17 to cache /var/lib/libretime/playout/scheduler/17.wav
+2026-02-24 18:08:48,057 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:08:48,058 | INFO     | libretime_playout.player.fetch:main:311 - Loop #238
+2026-02-24 18:08:48,060 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:08:48,060 | INFO     | libretime_playout.player.queue:main:39 - waiting 71.939228s until next scheduled item
+2026-02-24 18:09:34,132 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:09:35,265 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 149 to cache /var/lib/libretime/playout/scheduler/149.mp3
+2026-02-24 18:09:35,269 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:09:35,269 | INFO     | libretime_playout.player.fetch:main:311 - Loop #239
+2026-02-24 18:09:35,274 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:09:35,274 | INFO     | libretime_playout.player.queue:main:39 - waiting 24.725461s until next scheduled item
+2026-02-24 18:09:35,405 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 145 to cache /var/lib/libretime/playout/scheduler/145.mp3
+2026-02-24 18:09:35,504 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 146 to cache /var/lib/libretime/playout/scheduler/146.mp3
+2026-02-24 18:09:35,578 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 147 to cache /var/lib/libretime/playout/scheduler/147.mp3
+2026-02-24 18:09:35,651 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 148 to cache /var/lib/libretime/playout/scheduler/148.mp3
+2026-02-24 18:09:38,705 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:09:40,867 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 35 to cache /var/lib/libretime/playout/scheduler/35.mp3
+2026-02-24 18:09:40,868 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:09:40,869 | INFO     | libretime_playout.player.fetch:main:311 - Loop #240
+2026-02-24 18:09:40,875 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:09:40,875 | INFO     | libretime_playout.player.queue:main:39 - waiting 19.124556s until next scheduled item
+2026-02-24 18:09:45,293 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 103 to cache /var/lib/libretime/playout/scheduler/103.mp3
+2026-02-24 18:09:47,626 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 133 to cache /var/lib/libretime/playout/scheduler/133.mp3
+2026-02-24 18:09:51,891 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 141 to cache /var/lib/libretime/playout/scheduler/141.mp3
+2026-02-24 18:09:55,707 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 63 to cache /var/lib/libretime/playout/scheduler/63.mp3
+2026-02-24 18:09:56,612 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 116 to cache /var/lib/libretime/playout/scheduler/116.mp3
+2026-02-24 18:10:00,022 | INFO     | libretime_playout.player.queue:main:39 - waiting 3.977917s until next scheduled item
+2026-02-24 18:10:02,040 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:10:03,222 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:10:03,223 | INFO     | libretime_playout.player.queue:main:39 - waiting 0.77617s until next scheduled item
+2026-02-24 18:10:03,320 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/63.mp3' removed
+2026-02-24 18:10:03,451 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/35.mp3' removed
+2026-02-24 18:10:03,584 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/133.mp3' removed
+2026-02-24 18:10:03,702 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/141.mp3' removed
+2026-02-24 18:10:03,820 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/116.mp3' removed
+2026-02-24 18:10:03,937 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/103.mp3' removed
+2026-02-24 18:10:03,938 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:10:03,938 | INFO     | libretime_playout.player.fetch:main:311 - Loop #241
+2026-02-24 18:10:04,031 | INFO     | libretime_playout.player.queue:main:39 - waiting 38.968786s until next scheduled item
+2026-02-24 18:10:14,182 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:10:16,349 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 3 to cache /var/lib/libretime/playout/scheduler/3.mp3
+2026-02-24 18:10:16,361 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:10:16,362 | INFO     | libretime_playout.player.queue:main:39 - waiting 26.637341s until next scheduled item
+2026-02-24 18:10:16,462 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/17.wav' removed
+2026-02-24 18:10:16,462 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:10:16,462 | INFO     | libretime_playout.player.fetch:main:311 - Loop #242
+2026-02-24 18:10:18,056 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 7 to cache /var/lib/libretime/playout/scheduler/7.mp3
+2026-02-24 18:10:19,885 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 5 to cache /var/lib/libretime/playout/scheduler/5.mp3
+2026-02-24 18:10:21,760 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 8 to cache /var/lib/libretime/playout/scheduler/8.mp3
+2026-02-24 18:10:23,184 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 4 to cache /var/lib/libretime/playout/scheduler/4.mp3
+2026-02-24 18:10:25,000 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 6 to cache /var/lib/libretime/playout/scheduler/6.mp3
+2026-02-24 18:10:25,335 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:10:26,631 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 2 to cache /var/lib/libretime/playout/scheduler/2.mp3
+2026-02-24 18:10:28,149 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 116 to cache /var/lib/libretime/playout/scheduler/116.mp3
+2026-02-24 18:10:28,162 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:10:28,162 | INFO     | libretime_playout.player.fetch:main:311 - Loop #243
+2026-02-24 18:10:28,164 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:10:28,165 | INFO     | libretime_playout.player.queue:main:39 - waiting 14.834557s until next scheduled item
+2026-02-24 18:10:31,136 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 110 to cache /var/lib/libretime/playout/scheduler/110.mp3
+2026-02-24 18:10:31,859 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 51 to cache /var/lib/libretime/playout/scheduler/51.mp3
+2026-02-24 18:10:43,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 20.993157s until next scheduled item
+2026-02-24 18:11:04,015 | INFO     | libretime_playout.player.queue:main:39 - waiting 9.984643s until next scheduled item
+2026-02-24 18:11:14,015 | INFO     | libretime_playout.player.queue:main:39 - waiting 9.984078s until next scheduled item
+2026-02-24 18:11:24,053 | INFO     | libretime_playout.player.queue:main:39 - waiting 40.946709s until next scheduled item
+2026-02-24 18:12:05,044 | INFO     | libretime_playout.player.queue:main:39 - waiting 298.955678s until next scheduled item
+2026-02-24 18:17:04,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 308.99381s until next scheduled item
+2026-02-24 18:17:08,163 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:17:09,845 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 18:17:09,846 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:17:09,847 | INFO     | libretime_playout.player.queue:main:39 - waiting 303.15263s until next scheduled item
+2026-02-24 18:17:09,945 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/146.mp3' removed
+2026-02-24 18:17:10,054 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/148.mp3' removed
+2026-02-24 18:17:10,169 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/145.mp3' removed
+2026-02-24 18:17:10,269 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/147.mp3' removed
+2026-02-24 18:17:10,378 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/149.mp3' removed
+2026-02-24 18:17:10,491 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/3.mp3' removed
+2026-02-24 18:17:10,492 | INFO     | libretime_playout.player.fetch:main:311 - Loop #244
+2026-02-24 18:22:13,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 329.993654s until next scheduled item
+2026-02-24 18:23:50,493 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:23:51,968 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:23:51,969 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.030319s until next scheduled item
+2026-02-24 18:23:52,067 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/7.mp3' removed
+2026-02-24 18:23:52,067 | INFO     | libretime_playout.player.fetch:main:311 - Loop #245
+2026-02-24 18:27:43,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 256.993392s until next scheduled item
+2026-02-24 18:30:32,068 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:30:33,452 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:30:33,453 | INFO     | libretime_playout.player.queue:main:39 - waiting 86.546321s until next scheduled item
+2026-02-24 18:30:33,553 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/5.mp3' removed
+2026-02-24 18:30:33,553 | INFO     | libretime_playout.player.fetch:main:311 - Loop #246
+2026-02-24 18:32:00,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 290.993804s until next scheduled item
+2026-02-24 18:36:51,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 251.993445s until next scheduled item
+2026-02-24 18:37:13,554 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:37:14,519 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:37:14,520 | INFO     | libretime_playout.player.queue:main:39 - waiting 228.479151s until next scheduled item
+2026-02-24 18:37:14,631 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/8.mp3' removed
+2026-02-24 18:37:14,744 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/4.mp3' removed
+2026-02-24 18:37:14,745 | INFO     | libretime_playout.player.fetch:main:311 - Loop #247
+2026-02-24 18:41:03,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 231.956984s until next scheduled item
+2026-02-24 18:42:03,818 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:42:04,607 | INFO     | libretime_playout.player.liquidsoap:verify_correct_present_media:272 - Track start=datetime.datetime(2026, 2, 25, 2, 41, 3) end=datetime.datetime(2026, 2, 25, 2, 44, 56) type=<EventKind.FILE: 'file'> row_id=135 uri=None id=2 show_name='Weather Test Show' fade_in=500.0 fade_out=500.0 cue_in=0.0 cue_out=232.437551 track_title='Lighting Strikes' artist_name='Geovanie Brooks' mime='audio/mp3' replay_gain=None filesize=9514819 file_ready=True found to have new attr.
+2026-02-24 18:42:04,610 | INFO     | libretime_playout.player.liquidsoap:verify_correct_present_media:280 - Need to remove items from Liquidsoap: {135}
+2026-02-24 18:42:04,617 | INFO     | libretime_playout.player.liquidsoap:verify_correct_present_media:288 - Need to add items to Liquidsoap *now*: {135}
+2026-02-24 18:42:04,672 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:42:04,672 | INFO     | libretime_playout.player.queue:main:39 - waiting 171.327079s until next scheduled item
+2026-02-24 18:42:04,728 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/6.mp3' removed
+2026-02-24 18:42:04,730 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:42:04,730 | INFO     | libretime_playout.player.fetch:main:311 - Loop #248
+2026-02-24 18:42:21,140 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:42:22,791 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 145 to cache /var/lib/libretime/playout/scheduler/145.mp3
+2026-02-24 18:42:22,796 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:42:22,796 | INFO     | libretime_playout.player.fetch:main:311 - Loop #249
+2026-02-24 18:42:22,803 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:42:22,804 | INFO     | libretime_playout.player.queue:main:39 - waiting 153.195908s until next scheduled item
+2026-02-24 18:42:22,890 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 147 to cache /var/lib/libretime/playout/scheduler/147.mp3
+2026-02-24 18:42:22,963 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 146 to cache /var/lib/libretime/playout/scheduler/146.mp3
+2026-02-24 18:42:23,035 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 148 to cache /var/lib/libretime/playout/scheduler/148.mp3
+2026-02-24 18:42:23,179 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 149 to cache /var/lib/libretime/playout/scheduler/149.mp3
+2026-02-24 18:44:56,028 | INFO     | libretime_playout.player.queue:main:39 - waiting 19.971792s until next scheduled item
+2026-02-24 18:45:16,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 10.993798s until next scheduled item
+2026-02-24 18:45:27,016 | INFO     | libretime_playout.player.queue:main:39 - waiting 8.983738s until next scheduled item
+2026-02-24 18:45:36,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 40.994286s until next scheduled item
+2026-02-24 18:46:17,006 | INFO     | libretime_playout.player.queue:main:39 - waiting 39.993182s until next scheduled item
+2026-02-24 18:46:57,043 | INFO     | libretime_playout.player.queue:main:39 - waiting 474.956947s until next scheduled item
+2026-02-24 18:49:02,797 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:49:03,541 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:49:03,542 | INFO     | libretime_playout.player.queue:main:39 - waiting 348.45709s until next scheduled item
+2026-02-24 18:49:03,651 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/146.mp3' removed
+2026-02-24 18:49:03,790 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/148.mp3' removed
+2026-02-24 18:49:03,927 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/145.mp3' removed
+2026-02-24 18:49:04,083 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/2.mp3' removed
+2026-02-24 18:49:04,212 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/147.mp3' removed
+2026-02-24 18:49:04,344 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/149.mp3' removed
+2026-02-24 18:49:04,345 | INFO     | libretime_playout.player.fetch:main:311 - Loop #250
+2026-02-24 18:54:52,007 | INFO     | libretime_playout.player.queue:main:39 - waiting 111.99304s until next scheduled item
+2026-02-24 18:55:44,346 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 18:55:44,925 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:55:44,928 | INFO     | libretime_playout.player.queue:main:39 - waiting 59.071469s until next scheduled item
+2026-02-24 18:55:45,091 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/116.mp3' removed
+2026-02-24 18:55:45,092 | INFO     | libretime_playout.player.fetch:main:311 - Loop #251
+2026-02-24 18:56:44,010 | INFO     | libretime_playout.player.queue:main:39 - waiting 195.98946s until next scheduled item
+2026-02-24 18:59:53,246 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 18:59:53,599 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 18:59:53,601 | INFO     | libretime_playout.player.queue:main:39 - waiting 6.398774s until next scheduled item
+2026-02-24 18:59:53,758 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/110.mp3' removed
+2026-02-24 18:59:53,759 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 18:59:53,760 | INFO     | libretime_playout.player.fetch:main:311 - Loop #252
+2026-02-24 19:00:00,006 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 19:00:02,589 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 19:00:03,173 | INFO     | libretime_playout.player.file:copy_file:47 - copying file 159 to cache /var/lib/libretime/playout/scheduler/159.mp3
+2026-02-24 19:00:03,177 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 19:00:03,178 | INFO     | libretime_playout.player.fetch:main:311 - Loop #253
+2026-02-24 19:00:03,181 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:00:03,182 | INFO     | libretime_playout.player.queue:main:39 - waiting 1796.817725s until next scheduled item
+2026-02-24 19:00:49,254 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 19:00:49,786 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 19:00:49,787 | INFO     | libretime_playout.player.fetch:main:311 - Loop #254
+2026-02-24 19:00:49,793 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:00:49,793 | INFO     | libretime_playout.player.queue:main:39 - waiting 10.206221s until next scheduled item
+2026-02-24 19:01:00,040 | INFO     | libretime_playout.player.queue:main:39 - waiting 3539.959466s until next scheduled item
+2026-02-24 19:07:29,788 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:07:30,080 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:07:30,081 | INFO     | libretime_playout.player.queue:main:39 - waiting 3149.918353s until next scheduled item
+2026-02-24 19:07:30,178 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/51.mp3' removed
+2026-02-24 19:07:30,178 | INFO     | libretime_playout.player.fetch:main:311 - Loop #255
+2026-02-24 19:08:55,852 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 19:08:56,335 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 19:08:56,335 | INFO     | libretime_playout.player.fetch:main:311 - Loop #256
+2026-02-24 19:08:56,338 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:08:56,339 | INFO     | libretime_playout.player.queue:main:39 - waiting 1321.661008s until next scheduled item
+2026-02-24 19:09:00,088 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 19:09:00,571 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 19:09:00,573 | INFO     | libretime_playout.player.fetch:main:311 - Loop #257
+2026-02-24 19:09:00,575 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:09:00,575 | INFO     | libretime_playout.player.queue:main:39 - waiting 1317.424625s until next scheduled item
+2026-02-24 19:09:10,220 | INFO     | libretime_playout.message_handler:on_message:52 - handling event update_schedule: {'event_type': 'update_schedule'}
+2026-02-24 19:09:10,515 | INFO     | libretime_playout.player.fetch:handle_message:111 - New timeout: 400.0
+2026-02-24 19:09:10,516 | INFO     | libretime_playout.player.fetch:main:311 - Loop #258
+2026-02-24 19:09:10,521 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:09:10,521 | INFO     | libretime_playout.player.queue:main:39 - waiting 3049.478513s until next scheduled item
+2026-02-24 19:15:50,516 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:15:50,806 | INFO     | libretime_playout.player.fetch:main:311 - Loop #259
+2026-02-24 19:15:50,809 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 19:15:50,809 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:15:50,810 | INFO     | libretime_playout.player.queue:main:39 - waiting 2649.189779s until next scheduled item
+2026-02-24 19:22:30,807 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:22:31,110 | INFO     | libretime_playout.player.fetch:main:311 - Loop #260
+2026-02-24 19:22:31,114 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:22:31,115 | INFO     | libretime_playout.player.queue:main:39 - waiting 2248.885013s until next scheduled item
+2026-02-24 19:29:11,111 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:29:11,390 | INFO     | libretime_playout.player.fetch:main:311 - Loop #261
+2026-02-24 19:29:11,393 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:29:11,393 | INFO     | libretime_playout.player.queue:main:39 - waiting 1848.606253s until next scheduled item
+2026-02-24 19:35:51,390 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:35:51,501 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:35:51,502 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 19:35:51,620 | INFO     | libretime_playout.player.fetch:cache_cleanup:255 - File '/var/lib/libretime/playout/scheduler/159.mp3' removed
+2026-02-24 19:35:51,620 | INFO     | libretime_playout.player.fetch:main:311 - Loop #262
+2026-02-24 19:42:31,621 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:42:31,721 | INFO     | libretime_playout.player.fetch:main:311 - Loop #263
+2026-02-24 19:42:31,724 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:42:31,724 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 19:49:11,722 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:49:11,825 | INFO     | libretime_playout.player.fetch:main:311 - Loop #264
+2026-02-24 19:49:11,831 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:49:11,831 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 19:55:51,825 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 19:55:51,928 | INFO     | libretime_playout.player.fetch:main:311 - Loop #265
+2026-02-24 19:55:51,930 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 19:55:51,930 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:02:31,929 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:02:32,028 | INFO     | libretime_playout.player.fetch:main:311 - Loop #266
+2026-02-24 20:02:32,034 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:02:32,034 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:09:12,029 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:09:12,129 | INFO     | libretime_playout.player.fetch:main:311 - Loop #267
+2026-02-24 20:09:12,132 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:09:12,133 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:15:52,130 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:15:52,231 | INFO     | libretime_playout.player.fetch:main:311 - Loop #268
+2026-02-24 20:15:52,235 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:15:52,236 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:22:32,232 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:22:32,332 | INFO     | libretime_playout.player.fetch:main:311 - Loop #269
+2026-02-24 20:22:32,336 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:22:32,336 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:29:12,332 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:29:12,433 | INFO     | libretime_playout.player.fetch:main:311 - Loop #270
+2026-02-24 20:29:12,436 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:29:12,436 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:35:52,434 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:35:52,534 | INFO     | libretime_playout.player.fetch:main:311 - Loop #271
+2026-02-24 20:35:52,539 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:35:52,539 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:42:32,535 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:42:32,635 | INFO     | libretime_playout.player.fetch:main:311 - Loop #272
+2026-02-24 20:42:32,640 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:42:32,640 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:49:12,636 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:49:12,740 | INFO     | libretime_playout.player.fetch:main:311 - Loop #273
+2026-02-24 20:49:12,744 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:49:12,744 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 20:55:52,740 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 20:55:52,841 | INFO     | libretime_playout.player.fetch:main:311 - Loop #274
+2026-02-24 20:55:52,844 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 20:55:52,845 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 20:55:52,845 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:02:32,841 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:02:32,941 | INFO     | libretime_playout.player.fetch:main:311 - Loop #275
+2026-02-24 21:02:32,947 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:02:32,947 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:09:12,942 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:09:13,046 | INFO     | libretime_playout.player.fetch:main:311 - Loop #276
+2026-02-24 21:09:13,050 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:09:13,050 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:15:53,047 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:15:53,148 | INFO     | libretime_playout.player.fetch:main:311 - Loop #277
+2026-02-24 21:15:53,151 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:15:53,152 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:22:33,149 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:22:33,252 | INFO     | libretime_playout.player.fetch:main:311 - Loop #278
+2026-02-24 21:22:33,255 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:22:33,256 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:29:13,253 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:29:13,356 | INFO     | libretime_playout.player.fetch:main:311 - Loop #279
+2026-02-24 21:29:13,361 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:29:13,361 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:35:53,357 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:35:53,456 | INFO     | libretime_playout.player.fetch:main:311 - Loop #280
+2026-02-24 21:35:53,460 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:35:53,461 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:42:33,458 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:42:33,558 | INFO     | libretime_playout.player.fetch:main:311 - Loop #281
+2026-02-24 21:42:33,561 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:42:33,562 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:49:13,558 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:49:13,659 | INFO     | libretime_playout.player.fetch:main:311 - Loop #282
+2026-02-24 21:49:13,663 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:49:13,663 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 21:55:53,660 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 21:55:53,758 | INFO     | libretime_playout.player.fetch:main:311 - Loop #283
+2026-02-24 21:55:53,762 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 21:55:53,763 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:02:33,759 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:02:33,861 | INFO     | libretime_playout.player.fetch:main:311 - Loop #284
+2026-02-24 22:02:33,865 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:02:33,866 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:09:13,862 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:09:13,962 | INFO     | libretime_playout.player.fetch:main:311 - Loop #285
+2026-02-24 22:09:13,966 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:09:13,966 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:15:53,963 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:15:54,062 | INFO     | libretime_playout.player.fetch:main:311 - Loop #286
+2026-02-24 22:15:54,065 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:15:54,066 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:22:34,063 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:22:34,163 | INFO     | libretime_playout.player.fetch:main:311 - Loop #287
+2026-02-24 22:22:34,167 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:22:34,167 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:29:14,164 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:29:14,264 | INFO     | libretime_playout.player.fetch:main:311 - Loop #288
+2026-02-24 22:29:14,268 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:29:14,268 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:35:54,265 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:35:54,366 | INFO     | libretime_playout.player.fetch:main:311 - Loop #289
+2026-02-24 22:35:54,369 | INFO     | libretime_playout.player.push:main:62 - heartbeat
+2026-02-24 22:35:54,370 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:35:54,370 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:42:34,367 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:42:34,468 | INFO     | libretime_playout.player.fetch:main:311 - Loop #290
+2026-02-24 22:42:34,471 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:42:34,471 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:49:14,469 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:49:14,570 | INFO     | libretime_playout.player.fetch:main:311 - Loop #291
+2026-02-24 22:49:14,575 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:49:14,576 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 22:55:54,571 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 22:55:54,670 | INFO     | libretime_playout.player.fetch:main:311 - Loop #292
+2026-02-24 22:55:54,676 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 22:55:54,677 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:02:34,671 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:02:34,774 | INFO     | libretime_playout.player.fetch:main:311 - Loop #293
+2026-02-24 23:02:34,776 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:02:34,776 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:09:14,775 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:09:14,875 | INFO     | libretime_playout.player.fetch:main:311 - Loop #294
+2026-02-24 23:09:14,878 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:09:14,879 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:15:54,876 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:15:54,975 | INFO     | libretime_playout.player.fetch:main:311 - Loop #295
+2026-02-24 23:15:54,979 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:15:54,979 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:22:34,976 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:22:35,076 | INFO     | libretime_playout.player.fetch:main:311 - Loop #296
+2026-02-24 23:22:35,078 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:22:35,079 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:29:15,077 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:29:15,178 | INFO     | libretime_playout.player.fetch:main:311 - Loop #297
+2026-02-24 23:29:15,181 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:29:15,182 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:35:55,179 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:35:55,278 | INFO     | libretime_playout.player.fetch:main:311 - Loop #298
+2026-02-24 23:35:55,282 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:35:55,282 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:42:35,278 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:42:35,379 | INFO     | libretime_playout.player.fetch:main:311 - Loop #299
+2026-02-24 23:42:35,382 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:42:35,382 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:49:15,380 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:49:15,480 | INFO     | libretime_playout.player.fetch:main:311 - Loop #300
+2026-02-24 23:49:15,483 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:49:15,484 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
+2026-02-24 23:55:55,482 | INFO     | libretime_playout.player.fetch:main:332 - Queue timeout. Fetching schedule manually
+2026-02-24 23:55:55,584 | INFO     | libretime_playout.player.fetch:main:311 - Loop #301
+2026-02-24 23:55:55,586 | INFO     | libretime_playout.player.queue:main:57 - New schedule received
+2026-02-24 23:55:55,587 | INFO     | libretime_playout.player.queue:main:36 - waiting indefinitely for schedule
